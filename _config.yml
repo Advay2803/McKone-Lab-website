@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: McKone Lab group
+title: McKone Lab 
 
 # Your name to show in the footer
-author: NA
+author: Advay Shirwalkar
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,9 +21,7 @@ author: NA
 
 navbar-links:  
   Home: "aboutme"
-  People:
-    - Current Members: "https://beautifuljekyll.com"
-    - Past Members: "https://www.markdowntutorial.com/"
+  People: "https://beautifuljekyll.com"
   Publication: "aboutme"
   News: "aboutme"
   Resources:
@@ -55,10 +53,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
   github: daattali
   twitter: daattali
+  google-scholar: your google scholar
   patreon: DeanAttali
   youtube: "@daattali"
   whatsapp: 15551212
