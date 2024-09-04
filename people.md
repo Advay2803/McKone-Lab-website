@@ -1,13 +1,71 @@
 ---
 layout: page
-subtitle: Why you'd want to go on a date with me
+title: People
+permalink: /people/
 ---
 
-Hello chemistry
-!(https://beautifuljekyll.com/assets/img/James.jpg){: .mx-auto.d-block :}
+## Principal Investigator
 
+{% for person in site.data.people.PI %}
+### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
+**{{ person.title }}**  
+{{ person.bio }}  
+[Website]({{ person.website }})  
+[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
+{% endfor %}
 
-### My story
+## Current Members
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Post-Docs
+{% for person in site.data.people.Current_members.Post_docs %}
+### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
+**{{ person.title }}**  
+{{ person.bio }}  
+[Website]({{ person.website }})  
+[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
+{% endfor %}
 
+### Graduate Students
+{% for person in site.data.people.Current_members.Grad_students %}
+### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
+**{{ person.title }}**  
+{{ person.bio }}  
+[Website]({{ person.website }})  
+[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
+{% endfor %}
+
+### Undergraduate Students
+{% for person in site.data.people.Current_members.Undergrad_students %}
+### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
+**{{ person.title }}**  
+{{ person.bio }}  
+[Website]({{ person.website }})
+{% endfor %}
+
+## Alumni
+
+### Post-Docs
+{% for person in site.data.people.Alumni.Post_docs %}
+### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
+**{{ person.title }}**  
+{{ person.bio }}  
+[Website]({{ person.website }})  
+[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
+{% endfor %}
+
+### Graduate Students
+{% for person in site.data.people.Alumni.Grad_students %}
+### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
+**{{ person.title }}**  
+{{ person.bio }}  
+[Website]({{ person.website }})  
+[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
+{% endfor %}
+
+### Undergraduate Students
+{% for person in site.data.people.Alumni.Undergrad_students %}
+### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
+**{{ person.title }}**  
+{{ person.bio }}  
+[Website]({{ person.website }})
+{% endfor %}
