@@ -4,8 +4,8 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 Hello chemistry
-![Crepe](https://beautifuljekyll.com/assets/img/James.jpg){: .mx-auto.d-block :}
-"/assets/img/James.jpg"
+!(https://beautifuljekyll.com/assets/img/James.jpg){: .mx-auto.d-block :}
+
 
 ### My story
 
