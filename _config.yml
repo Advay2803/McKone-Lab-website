@@ -22,7 +22,7 @@ author: Advay Shirwalkar
 navbar-links:  
   Home: "aboutme"
   People: "people"
-  Publication: "aboutme"
+  Publication: "Publications"
   News: "aboutme"
   Resources:
     - Handbook: "https://mckonelab.github.io/handbook/"
