@@ -8,8 +8,7 @@ permalink: /people/
 
 ### Principal Investigator (PI)
 - **Name**: James R. McKone
-- **Photo**: ![PI Photo] (https://your-github-advay2803.github.io/advay2803.github.io
-/assets/img/Pitt%20seal.png)
+- **Photo**: ![PI Photo] (https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/Pitt%20seal.png)
 - **[LinkedIn](https://linkedin.com/in/pi_linkedin)**
 - **[Google Scholar](https://scholar.google.com/citations?user=pi_scholar_id)**
 
