@@ -4,68 +4,51 @@ title: People
 permalink: /people/
 ---
 
-## Principal Investigator
+## People
 
-{% for person in site.data.people.PI %}
-### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
-**{{ person.title }}**  
-{{ person.bio }}  
-[Website]({{ person.website }})  
-[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
-{% endfor %}
+### Principal Investigator (PI)
+- **Name**: [PI Name]
+- **Photo**: ![PI Photo](link_to_pi_photo.jpg)
+- **[LinkedIn](https://linkedin.com/in/pi_linkedin)**
+- **[Google Scholar](https://scholar.google.com/citations?user=pi_scholar_id)**
 
-## Current Members
+---
 
-### Post-Docs
-{% for person in site.data.people.Current_members.Post_docs %}
-### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
-**{{ person.title }}**  
-{{ person.bio }}  
-[Website]({{ person.website }})  
-[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
-{% endfor %}
+### Current Members
 
-### Graduate Students
-{% for person in site.data.people.Current_members.Grad_students %}
-### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
-**{{ person.title }}**  
-{{ person.bio }}  
-[Website]({{ person.website }})  
-[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
-{% endfor %}
+#### Post-docs
+- **Name**: [Post-doc Name]
+  - **Photo**: ![Post-doc Photo](link_to_postdoc_photo.jpg)
+  - **[LinkedIn](https://linkedin.com/in/postdoc_linkedin)**
+  - **[Google Scholar](https://scholar.google.com/citations?user=postdoc_scholar_id)**
 
-### Undergraduate Students
-{% for person in site.data.people.Current_members.Undergrad_students %}
-### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
-**{{ person.title }}**  
-{{ person.bio }}  
-[Website]({{ person.website }})
-{% endfor %}
+#### Graduate Students
+- **Name**: [Grad Student Name]
+  - **Photo**: ![Grad Student Photo](link_to_grad_student_photo.jpg)
+  - **[LinkedIn](https://linkedin.com/in/grad_student_linkedin)**
+  - **[Google Scholar](https://scholar.google.com/citations?user=grad_student_scholar_id)**
 
-## Alumni
+#### Undergraduate Students
+- **Name**: [Undergrad Student Name]
+  - **Photo**: ![Undergrad Student Photo](link_to_undergrad_student_photo.jpg)
 
-### Post-Docs
-{% for person in site.data.people.Alumni.Post_docs %}
-### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
-**{{ person.title }}**  
-{{ person.bio }}  
-[Website]({{ person.website }})  
-[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
-{% endfor %}
+---
 
-### Graduate Students
-{% for person in site.data.people.Alumni.Grad_students %}
-### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
-**{{ person.title }}**  
-{{ person.bio }}  
-[Website]({{ person.website }})  
-[ORCID]({{ person.orcid }}) | [LinkedIn]({{ person.linkedin }}) | [Google Scholar]({{ person.scholar }})
-{% endfor %}
+### Alumni
 
-### Undergraduate Students
-{% for person in site.data.people.Alumni.Undergrad_students %}
-### ![{{ person.name }}]({{ person.image }}) {{ person.name }}
-**{{ person.title }}**  
-{{ person.bio }}  
-[Website]({{ person.website }})
-{% endfor %}
+#### Post-docs
+- **Name**: [Alumni Post-doc Name]
+  - **Photo**: ![Alumni Post-doc Photo](link_to_alumni_postdoc_photo.jpg)
+  - **[LinkedIn](https://linkedin.com/in/alumni_postdoc_linkedin)**
+  - **[Google Scholar](https://scholar.google.com/citations?user=alumni_postdoc_scholar_id)**
+
+#### Graduate Students
+- **Name**: [Alumni Grad Student Name]
+  - **Photo**: ![Alumni Grad Student Photo](link_to_alumni_grad_student_photo.jpg)
+  - **[LinkedIn](https://linkedin.com/in/alumni_grad_student_linkedin)**
+  - **[Google Scholar](https://scholar.google.com/citations?user=alumni_grad_student_scholar_id)**
+
+#### Undergraduate Students
+- **Name**: [Alumni Undergrad Student Name]
+  - **Photo**: ![Alumni Undergrad Student Photo](link_to_alumni_undergrad_student_photo.jpg)
+
