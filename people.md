@@ -4,6 +4,7 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 Hello chemistry
+"/assets/img/James.jpg"
 
 ### My story
 
