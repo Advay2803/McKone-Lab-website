@@ -7,8 +7,8 @@ permalink: /people/
 ## People
 
 ### Principal Investigator (PI)
-- **Name**: [PI Name]
-- **Photo**: ![PI Photo](link_to_pi_photo.jpg)
+- **Name**: James R. McKone
+- **Photo**: ![PI Photo]( "/assets/img/Pitt seal.png")
 - **[LinkedIn](https://linkedin.com/in/pi_linkedin)**
 - **[Google Scholar](https://scholar.google.com/citations?user=pi_scholar_id)**
 
