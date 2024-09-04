@@ -21,17 +21,14 @@ author: NA
 
 navbar-links:  
   Home: "aboutme"
-  About Me: "aboutme"
   People:
     - Current Members: "https://beautifuljekyll.com"
     - Past Members: "https://www.markdowntutorial.com/"
   Publication: "aboutme"
   News: "aboutme"
-  About Me: "aboutme"
   Resources:
+    - Handbook: "https://mckonelab.github.io/handbook/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
