@@ -19,7 +19,14 @@ author: NA
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+navbar-links:  
+  Home: "aboutme"
+  About Me: "aboutme"
+  People:
+    - Current Members: "https://beautifuljekyll.com"
+    - Past Members: "https://www.markdowntutorial.com/"
+  Publication: "aboutme"
+  News: "aboutme"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
