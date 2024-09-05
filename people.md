@@ -12,12 +12,12 @@ permalink: /people/
 <div style="display: flex; align-items: center; justify-content: center; text-align: left;">
 
   <!-- Image and Links Section -->
-  <div style="margin-right: 30px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 200px; height: 275px; margin-bottom: 10px;">
+  <div style="margin-right: 40px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 250px; height: 350px; margin-bottom: 10px;">
     
     <p>
-      <a href="https://linkedin.com/in/pi_linkedin">LinkedIn</a> | 
-      <a href="https://scholar.google.com/citations?user=pi_scholar_id">Google Scholar</a>
+      <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 1.2em;">LinkedIn</a> | 
+      <a href="https://scholar.google.com/citations?user=pi_scholar_id" style="font-size: 1.2em;">Google Scholar</a>
     </p>
   </div>
 
@@ -33,6 +33,7 @@ permalink: /people/
 </div>
 
 ---
+
 
 
 <div style="text-align: center;">
