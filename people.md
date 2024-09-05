@@ -17,14 +17,14 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 750px; height: auto; margin-bottom: 0px;">
     
     <p>
-      <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 0.8em;">LinkedIn</a> | 
-      <a href="https://scholar.google.com/citations?user=pi_scholar_id" style="font-size: 0.8em;">Google Scholar</a>
+      <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 0.7em;">LinkedIn</a> | 
+      <a href="https://scholar.google.com/citations?user=pi_scholar_id" style="font-size: 0.7em;">Google Scholar</a>
     </p>
   </div>
 
   <!-- Text Section -->
   <div>
-    <p style="margin-bottom: 15px;"><strong>Dr. James R. McKone</strong></p>
+    <p style="margin-bottom: 5px;"><strong>Dr. James R. McKone</strong></p>
     
     <p style="font-size: 0.8em;margin-top: 5px;">Associate Professor, Department of Chemical Engineering and Chemistry</p>
     
