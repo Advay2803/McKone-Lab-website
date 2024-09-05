@@ -36,6 +36,8 @@ permalink: /people/
   
   <p style="margin-top: 5px;">PhD, Ohio University</p>
   
+ <p style="text-align: justify;">Dr. Payman Sharifi Abdar’s work involves investigating materials for renewable energy storage. His focus is on advanced battery technologies and supercapacitors, which play a critical role in sustainable energy systems.</p>
+  
   <p>
     <a href="https://linkedin.com/in/postdoc_linkedin">LinkedIn</a> | 
     <a href="https://scholar.google.com/citations?user=postdoc_scholar_id">Google Scholar</a>
@@ -44,8 +46,6 @@ permalink: /people/
 
   <div style="text-align: center;">
   <p><strong style="font-size: 1em;">Graduate Researchers</strong></p>
-
----
 
 <div style="display: flex; justify-content: center; gap: 20px;">
 
@@ -57,7 +57,7 @@ permalink: /people/
   
     <p style="margin-top: 5px;">PhD, Ohio University</p>
 
-    <p>Dr. Payman Sharifi Abdar specializes in electrochemical energy systems. His research focuses on developing next-generation catalysts for clean energy applications, specifically targeting hydrogen evolution reactions (HER) and oxygen reduction reactions (ORR).</p>
+    <p style="text-align: justify;">Dr. Payman Sharifi Abdar specializes in electrochemical energy systems. His research focuses on developing next-generation catalysts for clean energy applications, specifically targeting hydrogen evolution reactions (HER) and oxygen reduction reactions (ORR).</p>
   
     <p>
       <a href="https://linkedin.com/in/postdoc_linkedin">LinkedIn</a> | 
@@ -73,7 +73,7 @@ permalink: /people/
   
     <p style="margin-top: 5px;">PhD, Ohio University</p>
 
-    <p>Dr. Payman Sharifi Abdar’s work involves investigating materials for renewable energy storage. His focus is on advanced battery technologies and supercapacitors, which play a critical role in sustainable energy systems.</p>
+    <p style="text-align: justify;">Dr. Payman Sharifi Abdar’s work involves investigating materials for renewable energy storage. His focus is on advanced battery technologies and supercapacitors, which play a critical role in sustainable energy systems.</p>
   
     <p>
       <a href="https://linkedin.com/in/postdoc_linkedin">LinkedIn</a> | 
