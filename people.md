@@ -13,12 +13,12 @@ permalink: /people/
 <div style="display: flex; align-items: center; justify-content: center; text-align: left;">
 
   <!-- Image and Links Section -->
-  <div style="margin-right: 40px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 750px; height: auto; margin-bottom: 5px;">
+  <div style="margin-right: 25px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 750px; height: auto; margin-bottom: 0px;">
     
     <p>
-      <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 0.5em;">LinkedIn</a> | 
-      <a href="https://scholar.google.com/citations?user=pi_scholar_id" style="font-size: 0.5em;">Google Scholar</a>
+      <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 0.8em;">LinkedIn</a> | 
+      <a href="https://scholar.google.com/citations?user=pi_scholar_id" style="font-size: 0.8em;">Google Scholar</a>
     </p>
   </div>
 
@@ -26,7 +26,7 @@ permalink: /people/
   <div>
     <p style="margin-bottom: 15px;"><strong>Dr. James R. McKone</strong></p>
     
-    <p style="font-size: 0.9em;margin-top: 5px;">Associate Professor, Department of Chemical Engineering and Chemistry</p>
+    <p style="font-size: 0.8em;margin-top: 5px;">Associate Professor, Department of Chemical Engineering and Chemistry</p>
     
     <p style="text-align: justify;">Dr. James R. McKone’s research focuses on advancing fundamental understanding and technology in the fields of electrochemical energy systems, including fuel cells and batteries. His work aims to develop efficient, sustainable, and scalable solutions for clean energy applications.</p>
   </div>
