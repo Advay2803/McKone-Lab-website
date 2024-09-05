@@ -9,11 +9,17 @@ permalink: /people/
   <p><strong style="font-size: 1.5em;">Principal Investigator</strong></p>
 </div>
 
+---
+
+<div style="text-align: center;">
+  <p><strong style="font-size: 1.5em;">Principal Investigator</strong></p>
+</div>
+
 <div style="display: flex; align-items: center; justify-content: center; text-align: left;">
 
   <!-- Image and Links Section -->
-  <div style="margin-right: 20px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 250px; height: 350px; margin-bottom: 10px;">
+  <div style="margin-right: 40px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 250px; height: auto; margin-bottom: 10px;">
     
     <p>
       <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 1.2em;">LinkedIn</a> | 
@@ -33,8 +39,6 @@ permalink: /people/
 </div>
 
 ---
-
-
 
 
 <div style="text-align: center;">
