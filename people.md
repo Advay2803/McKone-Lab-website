@@ -4,6 +4,7 @@ title: People
 permalink: /people/
 
 ---
+
 <div style="text-align: center;">
   <p><strong style="font-size: 1.5em;">Principal Investigator</strong></p>
 </div>
@@ -12,7 +13,7 @@ permalink: /people/
 
   <!-- Image and Links Section -->
   <div style="margin-right: 30px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 145px; height: 200px; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 200px; height: 275px; margin-bottom: 10px;">
     
     <p>
       <a href="https://linkedin.com/in/pi_linkedin">LinkedIn</a> | 
@@ -22,7 +23,6 @@ permalink: /people/
 
   <!-- Text Section -->
   <div>
-    
     <p style="margin-bottom: 15px;"><strong>Dr. James R. McKone</strong></p>
     
     <p style="margin-top: 5px;">Associate Professor, Department of Chemical Engineering and Chemistry</p>
