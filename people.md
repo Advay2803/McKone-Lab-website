@@ -21,8 +21,24 @@ permalink: /people/
 
 ---
 
-### Current Members
+<div style="text-align: center;">
+  <strong style="font-size: 1.5em;">Current Members</strong></p>
 
+<div style="text-align: center;">
+  <strong style="font-size: 1.5em;">Post-doctoral Researcher</strong></p>
+
+  <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 140px; height: 200px; margin-top: 10px;"></p>
+  
+  <p style="margin-bottom: 5px;"><strong>Payman Sharifi Abdar</strong></p>
+  
+  <p style="margin-top: 5px;">Associate Professor, Department of Chemical Engineering and Chemistry</p>
+  
+  <p>
+    <a href="https://linkedin.com/in/pi_linkedin">LinkedIn</a> | 
+    <a href="https://scholar.google.com/citations?user=pi_scholar_id">Google Scholar</a>
+  </p>
+</div>
+  
 #### Post-docs
 - **Name**: [Post-doc Name]
   - **Photo**: ![Post-doc Photo](link_to_postdoc_photo.jpg)
