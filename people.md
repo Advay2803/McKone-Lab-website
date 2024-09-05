@@ -6,6 +6,7 @@ permalink: /people/
 
 <div style="text-align: center;">
   <strong style="font-size: 1.5em;">Principal Investigator (PI)</strong>
+
   
   <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 150px; height: 200px; margin-top: 10px;">
   
