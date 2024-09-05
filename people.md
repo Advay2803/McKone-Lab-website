@@ -4,12 +4,11 @@ title: People
 permalink: /people/
 
 ---
-
-<div style="display: flex; align-items: center; justify-content: center; text-align: left;">
-
 <div style="text-align: center;">
   <p><strong style="font-size: 1.5em;">Principal Investigator</strong></p>
 </div>
+
+<div style="display: flex; align-items: center; justify-content: center; text-align: left;">
 
   <!-- Image and Links Section -->
   <div style="margin-right: 20px; text-align: center;">
