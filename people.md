@@ -8,10 +8,14 @@ permalink: /people/
 
 ### Principal Investigator (PI)
 
-![James R. McKone](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg)
-  **James R. McKone**
-- **[LinkedIn](https://linkedin.com/in/pi_linkedin)**
-- **[Google Scholar](https://scholar.google.com/citations?user=pi_scholar_id)**
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 150px; height: 200px;">
+  <p><strong>James R. McKone</strong></p>
+  <p>
+    <a href="https://linkedin.com/in/pi_linkedin">LinkedIn</a> | 
+    <a href="https://scholar.google.com/citations?user=pi_scholar_id">Google Scholar</a>
+  </p>
+</div>
 
 ---
 
