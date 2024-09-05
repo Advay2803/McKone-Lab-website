@@ -45,7 +45,9 @@ permalink: /people/
 </div>
 
   <div style="text-align: center;">
-  <p><strong style="font-size: 1em;">Graduate Researchers</strong></p>
+---
+
+<p style="text-align: center; font-size: 1.5em;"><strong>Graduate Researchers</strong></p>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
 
@@ -82,6 +84,9 @@ permalink: /people/
   </div>
 
 </div>
+
+---
+
 
 ---
 
