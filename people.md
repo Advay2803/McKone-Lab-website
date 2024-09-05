@@ -27,7 +27,7 @@ permalink: /people/
 <div style="text-align: center;">
   <strong style="font-size: 1.5em;">Post-doctoral Researcher</strong></p>
 
-  <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 160px; height: 200px; margin-top: 10px;"></p>
+  <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 180px; height: 200px; margin-top: 10px;"></p>
   
   <p style="margin-bottom: 5px;"><strong>Payman Sharifi Abdar</strong></p>
   
