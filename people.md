@@ -7,7 +7,7 @@ permalink: /people/
 <div style="text-align: center;">
   <strong style="font-size: 1.5em;">Principal Investigator</strong></p>
   
-  <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 140px; height: 200px; margin-top: 10px;"></p>
+  <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 160px; height: 200px; margin-top: 10px;"></p>
   
   <p style="margin-bottom: 5px;"><strong>James R. McKone</strong></p>
   
