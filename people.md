@@ -11,7 +11,7 @@ permalink: /people/
 <div style="display: flex; align-items: center; justify-content: center; text-align: left;">
 
   <!-- Image and Links Section -->
-  <div style="margin-right: 20px; text-align: center;">
+  <div style="margin-right: 30px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 145px; height: 200px; margin-bottom: 10px;">
     
     <p>
