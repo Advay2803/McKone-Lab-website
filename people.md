@@ -4,18 +4,19 @@ title: People
 permalink: /people/
 ---
 
-## People
-
-### Principal Investigator (PI)
-
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 150px; height: 200px;">
+  <strong style="font-size: 1.5em;">Principal Investigator (PI)</strong>
+  
+  <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 150px; height: 200px; margin-top: 10px;">
+  
   <p><strong>James R. McKone</strong></p>
+  
   <p>
     <a href="https://linkedin.com/in/pi_linkedin">LinkedIn</a> | 
     <a href="https://scholar.google.com/citations?user=pi_scholar_id">Google Scholar</a>
   </p>
 </div>
+
 
 ---
 
