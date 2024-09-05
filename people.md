@@ -13,7 +13,7 @@ permalink: /people/
 
   <!-- Image and Links Section -->
   <div style="margin-right: 80px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 250px; height: 350px; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 250px; height: 350px; margin-bottom: 100px;">
     
     <p>
       <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 1.2em;">LinkedIn</a> | 
