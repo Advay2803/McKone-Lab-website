@@ -7,6 +7,10 @@ permalink: /people/
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: left;">
 
+<div style="text-align: center;">
+  <p><strong style="font-size: 1.5em;">Principal Investigator</strong></p>
+</div>
+
   <!-- Image and Links Section -->
   <div style="margin-right: 20px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 145px; height: 200px; margin-bottom: 10px;">
@@ -19,9 +23,8 @@ permalink: /people/
 
   <!-- Text Section -->
   <div>
-    <p><strong style="font-size: 1.5em;">Principal Investigator</strong></p>
     
-    <p style="margin-bottom: 5px;"><strong>Dr. James R. McKone</strong></p>
+    <p style="margin-bottom: 15px;"><strong>Dr. James R. McKone</strong></p>
     
     <p style="margin-top: 5px;">Associate Professor, Department of Chemical Engineering and Chemistry</p>
     
