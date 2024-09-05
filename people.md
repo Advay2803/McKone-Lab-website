@@ -42,7 +42,50 @@ permalink: /people/
   </p>
 </div>
 
+  <div style="text-align: center;">
+  <p><strong style="font-size: 1em;">Graduate Researchers</strong></p>
+
+---
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+
+  <!-- First Profile -->
+  <div style="text-align: center;">
+    <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 180px; height: 200px; margin-top: 10px;"></p>
   
+    <p style="margin-bottom: 5px;"><strong>Dr. Payman Sharifi Abdar</strong></p>
+  
+    <p style="margin-top: 5px;">PhD, Ohio University</p>
+
+    <p>Dr. Payman Sharifi Abdar specializes in electrochemical energy systems. His research focuses on developing next-generation catalysts for clean energy applications, specifically targeting hydrogen evolution reactions (HER) and oxygen reduction reactions (ORR).</p>
+  
+    <p>
+      <a href="https://linkedin.com/in/postdoc_linkedin">LinkedIn</a> | 
+      <a href="https://scholar.google.com/citations?user=postdoc_scholar_id">Google Scholar</a>
+    </p>
+  </div>
+
+  <!-- Second Profile -->
+  <div style="text-align: center;">
+    <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 180px; height: 200px; margin-top: 10px;"></p>
+  
+    <p style="margin-bottom: 5px;"><strong>Dr. Payman Sharifi Abdar</strong></p>
+  
+    <p style="margin-top: 5px;">PhD, Ohio University</p>
+
+    <p>Dr. Payman Sharifi Abdar’s work involves investigating materials for renewable energy storage. His focus is on advanced battery technologies and supercapacitors, which play a critical role in sustainable energy systems.</p>
+  
+    <p>
+      <a href="https://linkedin.com/in/postdoc_linkedin">LinkedIn</a> | 
+      <a href="https://scholar.google.com/citations?user=postdoc_scholar_id">Google Scholar</a>
+    </p>
+  </div>
+
+</div>
+
+---
+
+
 #### Post-docs
 - **Name**: [Post-doc Name]
   - **Photo**: ![Post-doc Photo](link_to_postdoc_photo.jpg)
