@@ -8,7 +8,7 @@ permalink: /people/
 
 ### Principal Investigator (PI)
 - **Name**: James R. McKone
-- **Photo**: (https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/Pitt%20seal.png)
+- **Photo**: ![James R. McKone](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Pitt%20seal.png)
 - **[LinkedIn](https://linkedin.com/in/pi_linkedin)**
 - **[Google Scholar](https://scholar.google.com/citations?user=pi_scholar_id)**
 
@@ -51,4 +51,3 @@ permalink: /people/
 #### Undergraduate Students
 - **Name**: [Alumni Undergrad Student Name]
   - **Photo**: ![Alumni Undergrad Student Photo](link_to_alumni_undergrad_student_photo.jpg)
-
