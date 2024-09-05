@@ -3,21 +3,24 @@ layout: page
 title: People
 permalink: /people/
 ---
+---
 
 <div style="text-align: center;">
-  <strong style="font-size: 1.5em;">Principle Investigator</strong>
+  <strong style="font-size: 1.5em;">Principal Investigator</strong></p>
   
-  <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 140px; height: 200px; margin-top: 10px;">
+  <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 140px; height: 200px; margin-top: 10px;"></p>
   
   <p><strong>James R. McKone</strong></p>
   
-  <p>Associate Professor, Department of Chemical engineering and Chemistry</p>
+  <p>Associate Professor, Department of Chemical Engineering and Chemistry</p>
   
   <p>
     <a href="https://linkedin.com/in/pi_linkedin">LinkedIn</a> | 
     <a href="https://scholar.google.com/citations?user=pi_scholar_id">Google Scholar</a>
   </p>
 </div>
+
+---
 
 
 ---
