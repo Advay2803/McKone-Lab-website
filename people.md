@@ -36,6 +36,7 @@ permalink: /people/
 
 
 
+
 <div style="text-align: center;">
   <p><strong style="font-size: 1.5em;">Current Members</strong></p>
 </div>
