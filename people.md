@@ -10,7 +10,7 @@ permalink: /people/
   
   <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 140px; height: 200px; margin-top: 10px;"></p>
   
-  <p><strong>James R. McKone</strong></p>
+  <p><strong style="font-size: 1.5em;">James R. McKone</strong></p>
   
   <p>Associate Professor, Department of Chemical Engineering and Chemistry</p>
   
