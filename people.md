@@ -52,7 +52,7 @@ permalink: /people/
 <div style="display: flex; justify-content: center; gap: 20px;">
 
   <!-- First Profile -->
-  <div style="text-align: center;">
+  <div style="text-align: center; border-right: 2px solid #ccc; padding-right: 20px; margin-right: 20px;">
     <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 180px; height: 200px; margin-top: 10px;"></p>
   
     <p style="margin-bottom: 5px;"><strong>Dr. Payman Sharifi Abdar</strong></p>
@@ -87,8 +87,6 @@ permalink: /people/
 
 ---
 
-
----
 
 
 #### Post-docs
