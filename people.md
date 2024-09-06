@@ -22,7 +22,7 @@ permalink: /people/
   </div>
 
   <!-- Text Section -->
-  <div style="margin-top: -10px;">
+  <div style="margin-top: -100px;">
     <p style="font-size: 1.5em;margin-bottom: 5px;"><strong>Dr. James R. McKone</strong></p>
     
     <p style="font-size: 0.8em; margin-top: 5px;">Associate Professor, Department of Chemical Engineering and Chemistry</p>
