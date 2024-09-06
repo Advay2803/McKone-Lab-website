@@ -50,9 +50,13 @@ permalink: /people/
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 850px; height: auto; margin-bottom: 0px;">
     
-    <p>
-      <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 0.75em;">LinkedIn</a> | 
-      <a href="https://scholar.google.com/citations?user=pi_scholar_id" style="font-size: 0.75em;">Google Scholar</a>
+   <p>
+      <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 0.7em;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" style="width: 18px; height: 18px; margin-right: 5px;"> LinkedIn
+      </a> | 
+      <a href="https://scholar.google.com/citations?user=pi_scholar_id" style="font-size: 0.7em;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width: 18px; height: 18px; margin-right: 5px;"> Google Scholar
+      </a>
     </p>
   </div>
 
