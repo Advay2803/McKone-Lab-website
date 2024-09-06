@@ -64,7 +64,7 @@ permalink: /people/
   </div>
 
   <!-- Text Section -->
-  <div style="margin-top: -100px;">
+  <div style="margin-top: -70px;">
     <p style="font-size: 1.5em;margin-bottom: 5px;"><strong>Dr. Payman Sharifi Abdar</strong></p>
     
     <p style="font-size: 0.8em; margin-top: 5px;">PhD, Ohio Univeristy, OH</p>
@@ -74,7 +74,7 @@ permalink: /people/
 
 </div>
 ---
-  <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 180px; height: 200px; margin-top: 10px;"></p>
+  <p><img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 250px; height: auto; margin-top: 10px;"></p>
   
   <p style="margin-bottom: 5px;"><strong>Dr. Payman Sharifi Abdar</strong></p>
   
