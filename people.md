@@ -31,6 +31,28 @@ permalink: /people/
     }
   }
 </script>
+<div style="text-align: center;">
+  <p><strong style="font-size: 2em;">Principal Investigator</strong></p>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; text-align: left;">
+  <div style="margin-right: 25px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 850px; height: auto;">
+    <p>
+      <a href="https://linkedin.com/in/pi_linkedin">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+      </a> |
+      <a href="https://scholar.google.com/citations?user=pi_scholar_id">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+      </a>
+    </p>
+  </div>
+  <div>
+    <p style="font-size: 1.5em;"><strong>Dr. James R. McKone</strong></p>
+    <p>Associate Professor, Department of Chemical Engineering and Chemistry</p>
+    <p style="text-align: justify;">Dr. McKone’s research focuses on advancing fundamental understanding and technology in electrochemical energy systems.</p>
+  </div>
+</div>
 
 <!-- Current Members Section -->
 <div style="text-align: center;">
