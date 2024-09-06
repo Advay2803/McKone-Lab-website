@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people/
 
-
+---
 ---
 
 <div style="text-align: center;">
