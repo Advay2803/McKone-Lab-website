@@ -6,7 +6,7 @@ permalink: /people/
 ---
 
 <div style="text-align: center;">
-  <p><strong style="font-size: 1.5em;">Principal Investigator</strong></p>
+  <p><strong style="font-size: 2em;">Principal Investigator</strong></p>
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: left;">
