@@ -17,10 +17,10 @@ permalink: /people/
     
    <p>
       <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 0.7em;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" style="width: 18px; height: 18px; margin-right: 5px;"> LinkedIn
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" ;style="width: 18px; height: 18px; margin-right: 5px;"> LinkedIn
       </a> | 
       <a href="https://scholar.google.com/citations?user=pi_scholar_id" style="font-size: 0.7em;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="width: 18px; height: 18px; margin-right: 5px;"> Google Scholar
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" ;style="width: 18px; height: 18px; margin-right: 5px;"> Google Scholar
       </a>
     </p>
   </div>
