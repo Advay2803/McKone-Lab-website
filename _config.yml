@@ -23,7 +23,7 @@ navbar-links:
   #Home: "aboutme"
   People: "people"
   Publication: "publications"
-  News: "aboutme"
+  News: "posts"
   Resources:
     - Handbook: "https://mckonelab.github.io/handbook/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
