@@ -13,7 +13,7 @@ permalink: /people/
 
   <!-- Image and Links Section -->
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 250px; height: auto; margin-bottom: 0px;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 850px; height: auto; margin-bottom: 0px;">
     
     <p>
       <a href="https://linkedin.com/in/pi_linkedin" style="font-size: 0.7em;">LinkedIn</a> | 
@@ -23,7 +23,7 @@ permalink: /people/
 
   <!-- Text Section -->
   <div style="margin-top: -10px;">
-    <p style="margin-bottom: 5px;"><strong>Dr. James R. McKone</strong></p>
+    <p style="font-size: 1.5em;margin-bottom: 5px;"><strong>Dr. James R. McKone</strong></p>
     
     <p style="font-size: 0.8em; margin-top: 5px;">Associate Professor, Department of Chemical Engineering and Chemistry</p>
     
