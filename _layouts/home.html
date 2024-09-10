@@ -52,41 +52,43 @@ layout: page
 
 <!-- Captions for each slide (outside of the carousel) -->
 <div class="carousel-caption-area">
-  <div class="carousel-caption d-none d-md-block" data-slide="0">
+  <div class="carousel-caption d-none d-md-block" id="caption-0">
     <h5>Slide 1 Title</h5>
     <p>Slide 1 description goes here.</p>
   </div>
-  <div class="carousel-caption d-none d-md-block" data-slide="1">
+  <div class="carousel-caption d-none d-md-block" id="caption-1">
     <h5>Slide 2 Title</h5>
     <p>Slide 2 description goes here.</p>
   </div>
-  <div class="carousel-caption d-none d-md-block" data-slide="2">
+  <div class="carousel-caption d-none d-md-block" id="caption-2">
     <h5>Slide 3 Title</h5>
     <p>Slide 3 description goes here.</p>
   </div>
-  <div class="carousel-caption d-none d-md-block" data-slide="3">
+  <div class="carousel-caption d-none d-md-block" id="caption-3">
     <h5>Slide 4 Title</h5>
     <p>Slide 4 description goes here.</p>
   </div>
-  <div class="carousel-caption d-none d-md-block" data-slide="4">
+  <div class="carousel-caption d-none d-md-block" id="caption-4">
     <h5>Slide 5 Title</h5>
     <p>Slide 5 description goes here.</p>
   </div>
 </div>
 
 <script>
-  // JavaScript to handle caption synchronization with the active slide
   const carousel = document.querySelector('#carouselExampleCaptions');
   const captions = document.querySelectorAll('.carousel-caption');
 
-  carousel.addEventListener('slide.bs.carousel', function (event) {
-    captions.forEach((caption) => {
-      caption.style.display = 'none'; // Hide all captions
+  // Function to update captions based on the active slide
+  const updateCaptions = () => {
+    const activeIndex = document.querySelector('.carousel-item.active').getAttribute('data-bs-slide-to');
+    captions.forEach((caption, index) => {
+      caption.style.display = (index == activeIndex) ? 'block' : 'none';
     });
-    const activeIndex = event.to;
-    captions[activeIndex].style.display = 'block'; // Show the current active caption
-  });
+  };
 
-  // Show the first caption by default
-  captions[0].style.display = 'block';
+  // Event listener for carousel slide events
+  carousel.addEventListener('slide.bs.carousel', updateCaptions);
+
+  // Initialize captions
+  updateCaptions();
 </script>
