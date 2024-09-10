@@ -69,18 +69,20 @@ permalink: /people/
       <div style="margin-right: 25px; text-align: center;">
         <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 850px; height: auto;">
         <p>
-          <a href="https://linkedin.com/in/pi_linkedin">
+          <a href="https://www.linkedin.com/in/payman-sharifi-64435b54/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
           </a> |
-          <a href="https://scholar.google.com/citations?user=pi_scholar_id">
+          <a href="https://scholar.google.com/citations?user=1mKkBC4AAAAJ&hl=en&oi=ao">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
           </a>
         </p>
       </div>
       <div>
         <p style="font-size: 1.5em;"><strong>Dr. Payman Sharifi Abdar</strong></p>
-        <p>PhD, Ohio University</p>
-        <p style="text-align: justify;">Dr. Payman’s research focuses on electrochemical energy systems and sustainable solutions for clean energy applications.</p>
+        <p>PhD in Chemical Engineering, Ohio University, USA</p>
+        <p>MS in Environmental Engineering, Stuttgart University, Geramany</p>
+        <p>BS in Chemical Engineering, Sharif University of Technology, Iran</p>
+        <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is especifically studying on tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
       </div>
     </div>
   </div>
