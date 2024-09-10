@@ -1,0 +1,17 @@
+body {
+    background-image: url('/assets/img/Pitt bg.jpg');
+    background-size: cover; /* Adjusts the background image size to cover the entire element */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Ensures the image does not repeat */
+    position: relative; /* Makes sure that any overlay is positioned relative to this element */
+}
+
+.overlay {
+    position: absolute; /* Ensures it sits over the background */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.5); /* White overlay with 50% opacity */
+    pointer-events: none; /* Ensures clicks pass through to the elements underneath */
+}
