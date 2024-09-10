@@ -82,7 +82,7 @@ permalink: /people/
         <p style="margin-bottom: 0.3em;"><em>PhD in Chemical Engineering, Ohio University, USA</em></p>
         <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>MS in Environmental Engineering, Stuttgart University, Germany</em></p>
         <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Sharif University of Technology, Iran</em></p>
-        <p style="text-align: justify;margin-top: 0.3em;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
+        <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
       </div>
     </div>
   </div>
