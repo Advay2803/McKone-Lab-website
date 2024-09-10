@@ -48,6 +48,11 @@ round-avatar: true
 # --- Footer social media links --- #
 #####################################
 
+# Add your custom stylesheet
+assets:
+  css:
+    - "/assets/css/custom-style.css"
+
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
@@ -152,7 +157,7 @@ footer-hover-col: "#ffb81c"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/Pitt%20bg.jpg"
+page-img: "/assets/img/Pitt bg.jpg"
 
 
 
