@@ -106,14 +106,14 @@ permalink: /people/
     </div>
     <div>
       <p style="font-size: 1.5em;"><strong>Rebecca Segel</strong></p>
-      <p>BS in Chemical Engineering, Case Western Reserve University</p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Case Western Reserve University, USA</em></p>
       <p style="text-align: justify;">Rebecca’s research focuses on electrochemical systems and sustainable energy technologies.</p>
     </div>
   </div>
 
   <div style="display: flex; align-items: center; justify-content: center;">
     <div style="margin-right: 25px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Haku" style="width: 200px; height: auto;">
+      <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 200px; height: auto;">
       <p>
         <a href="https://linkedin.com/in/pi_linkedin">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
@@ -124,11 +124,90 @@ permalink: /people/
       </p>
     </div>
     <div>
-      <p style="font-size: 1.5em;"><strong>Robert Haku</strong></p>
-      <p>BS in Chemical Engineering, Case Western Reserve University</p>
+      <p style="font-size: 1.5em;"><strong>Robert Hacku</strong></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemistry, Clarion University, USA</em></p>
       <p style="text-align: justify;">Rob's research focuses on electrochemical systems and sustainable energy technologies.</p>
     </div>
   </div>
+
+    <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-right: 25px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Sammie.jpg" alt="Samantha Roegnik" style="width: 200px; height: auto;">
+      <p>
+        <a href="https://linkedin.com/in/pi_linkedin">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+        </a> |
+        <a href="https://scholar.google.com/citations?user=pi_scholar_id">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+        </a>
+      </p>
+    </div>
+    <div>
+      <p style="font-size: 1.5em;"><strong>Samantha Roenigk</strong></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Pennsylvania State University, USA</em></p>
+      <p style="text-align: justify;">Sammie's research focuses on electrochemical systems and sustainable energy technologies.</p>
+    </div>
+  </div>
+
+    <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-right: 25px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Advay.jpg" alt="Advay Shirwalkar" style="width: 200px; height: auto;">
+      <p>
+        <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+        </a> |
+        <a href="https://scholar.google.com/citations?hl=en&user=iDzwZDQAAAAJ">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+        </a>
+      </p>
+    </div>
+    <div>
+      <p style="font-size: 1.5em;"><strong>Advay Shirwalkar</strong></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
+      <p style="text-align: justify;">Advay is currently working on developing and improving non-platinum group, Ni–Mo cathodes for the hydrogen evolution reaction (HER) under alkaline conditions, a long-standing focus of our research group for over a decade. His research aims to understand the impact of metal oxides on catalytic activity and the material's longevity. Additionally, he is designing a flow-type catalyst testing cell to evaluate catalysts under realistic electrolyzer conditions, with the goal of assessing their performance on an operational scale.</p>
+    </div>
+  </div>
+
+    <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-right: 25px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Santi.jpg" alt="Santiago Ortiz Laverde" style="width: 200px; height: auto;">
+      <p>
+        <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+        </a> |
+        <a href="https://scholar.google.com/citations?hl=en&user=e00t6PwAAAAJ">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+        </a>
+      </p>
+    </div>
+    <div>
+      <p style="font-size: 1.5em;"><strong>Santiago Ortiz Laverde</strong></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>MS in Process Design and Management, Universidad de La Sabana, Colombia</em></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Universidad de La Sabana, Colombia</em></p>
+      <p style="text-align: justify;">s'bvkbzxbcv</p>
+    </div>
+  </div>
+
+      <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-right: 25px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Shreya.jpg" alt="Shreya Thakkar" style="width: 200px; height: auto;">
+      <p>
+        <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+        </a> |
+        <a href="https://scholar.google.com/citations?hl=en&user=iDzwZDQAAAAJ">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+        </a>
+      </p>
+    </div>
+    <div>
+      <p style="font-size: 1.5em;"><strong>Shreya Thakkar</strong></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>MS in Chemical Engineering, University of Massachusetts Amherst, USA</em></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
+      <p style="text-align: justify;">ndlm;zlvnzxkcnvmlmlmv;mbcv</p>
+    </div>
+  </div>
+
 </div>
 
 
