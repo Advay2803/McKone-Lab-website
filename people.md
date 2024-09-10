@@ -213,20 +213,20 @@ permalink: /people/
   <p class="toggle-button" onclick="toggleSection('undergrad-researchers')">Undergraduate Researchers &#9662;</p>
 </div>
 <div id="undergrad-researchers" class="toggle-content">
-  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 25px;">
-    <div>
+  <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+    <div style="margin: 0 15px; text-align: center;">
       <p style="font-size: 1.5em;"><strong>Ujjwal Srinivasan</strong></p>
       <p><em>BS in Chemical Engineering, University of Pittsburgh, USA</em></p>
     </div>
-    <div style="margin-left: 25px;">
+    <div style="margin: 0 15px; text-align: center;">
       <p style="font-size: 1.5em;"><strong>Shane Baroni</strong></p>
       <p><em>BS in Chemical Engineering, University of Pittsburgh, USA</em></p>
     </div>
-    <div style="margin-left: 25px;">
+    <div style="margin: 0 15px; text-align: center;">
       <p style="font-size: 1.5em;"><strong>Jordana Raviv</strong></p>
       <p><em>BS in Chemical Engineering, University of Pittsburgh, USA</em></p>
     </div>
-    <div style="margin-left: 25px;">
+    <div style="margin: 0 15px; text-align: center;">
       <p style="font-size: 1.5em;"><strong>Daniel Marcellus</strong></p>
       <p><em>BS in Chemical Engineering, University of Pittsburgh, USA</em></p>
     </div>
