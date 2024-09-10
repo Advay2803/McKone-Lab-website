@@ -97,10 +97,10 @@ permalink: /people/
       <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Becca.jpg" alt="Rebecca Segel" style="width: 200px; height: auto;">
       <p>
         <a href="https://linkedin.com/in/pi_linkedin">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
         </a> |
         <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
         </a>
       </p>
     </div>
@@ -111,15 +111,15 @@ permalink: /people/
     </div>
   </div>
 
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 25px;">
     <div style="margin-right: 25px; text-align: center;">
       <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 200px; height: auto;">
       <p>
         <a href="https://linkedin.com/in/pi_linkedin">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
         </a> |
         <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
         </a>
       </p>
     </div>
@@ -130,15 +130,15 @@ permalink: /people/
     </div>
   </div>
 
-    <div style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; align-items: center; justify-content: center;">
     <div style="margin-right: 25px; text-align: center;">
       <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Sammie.jpg" alt="Samantha Roegnik" style="width: 200px; height: auto;">
       <p>
         <a href="https://linkedin.com/in/pi_linkedin">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
         </a> |
         <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
         </a>
       </p>
     </div>
@@ -149,64 +149,73 @@ permalink: /people/
     </div>
   </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Advay.jpg" alt="Advay Shirwalkar" style="width: 500px; height: auto;">
-    <p>
-      <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
-      </a> |
-      <a href="https://scholar.google.com/citations?hl=en&user=iDzwZDQAAAAJ">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
-      </a>
-    </p>
+  <!-- Current Graduate Students -->
+<div style="text-align: center;">
+  <p class="toggle-button" onclick="toggleSection('current-graduate')">Graduate Students &#9662;</p>
+</div>
+<div id="current-graduate" class="toggle-content">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="margin-right: 25px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Advay.jpg" alt="Advay Shirwalkar" style="width: 850px; height: auto;">
+      <p>
+        <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        </a> |
+        <a href="https://scholar.google.com/citations?hl=en&user=iDzwZDQAAAAJ">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+        </a>
+      </p>
+    </div>
+    <div>
+      <p style="font-size: 1.5em;"><strong>Advay Shirwalkar</strong></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>PhD in Chemical Engineering, University of Pittsburgh, USA</em></p>
+      <p style="text-align: justify;">Advay is currently working on developing and improving non-platinum group, Ni–Mo cathodes for the hydrogen evolution reaction (HER) under alkaline conditions. His research aims to understand the impact of metal oxides on catalytic activity and material longevity. Additionally, he is designing a flow-type catalyst testing cell to evaluate catalysts under realistic electrolyzer conditions.</p>
+    </div>
   </div>
-  <div>
-    <p style="font-size: 1.5em;"><strong>Advay Shirwalkar</strong></p>
-    <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
-    <p style="text-align: justify;">Advay is currently working on developing and improving non-platinum group, Ni–Mo cathodes for the hydrogen evolution reaction (HER) under alkaline conditions, a long-standing focus of our research group for over a decade. His research aims to understand the impact of metal oxides on catalytic activity and the material's longevity. Additionally, he is designing a flow-type catalyst testing cell to evaluate catalysts under realistic electrolyzer conditions, with the goal of assessing their performance on an operational scale.</p>
+  
+  <div style="display: flex; align-items: center; justify-content: center; margin-top: 25px;">
+    <div style="margin-right: 25px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Santi.jpg" alt="Santiago Ortiz Laverde" style="width: 850px; height: auto;">
+      <p>
+        <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        </a> |
+        <a href="https://scholar.google.com/citations?hl=en&user=e00t6PwAAAAJ">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+        </a>
+      </p>
+    </div>
+    <div>
+      <p style="font-size: 1.5em;"><strong>Santiago Ortiz Laverde</strong></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>MS in Process Design and Management, Universidad de La Sabana, Colombia</em></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Universidad de La Sabana, Colombia</em></p>
+      <p style="text-align: justify;">Santiago is involved in research focused on process design and management, with particular interest in optimizing chemical engineering processes and technologies.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; justify-content: center; margin-top: 25px;">
+    <div style="margin-right: 25px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Shreya.jpg" alt="Shreya Thakkar" style="width: 850px; height: auto;">
+      <p>
+        <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        </a> |
+        <a href="https://scholar.google.com/citations?hl=en&user=iDzwZDQAAAAJ">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+        </a>
+      </p>
+    </div>
+    <div>
+      <p style="font-size: 1.5em;"><strong>Shreya Thakkar</strong></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>MS in Chemical Engineering, University of Massachusetts Amherst, USA</em></p>
+      <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
+      <p style="text-align: justify;">Shreya's research focuses on enhancing the efficiency of chemical processes and developing new methodologies for chemical engineering applications.</p>
+    </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Santi.jpg" alt="Santiago Ortiz Laverde" style="width: 200px; height: auto;">
-    <p>
-      <a href="https://www.linkedin.com/in/santiago-ortiz-laverde-80232021b/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
-      </a> |
-      <a href="https://scholar.google.com/citations?hl=en&user=e00t6PwAAAAJ">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
-      </a>
-    </p>
-  </div>
-  <div>
-    <p style="font-size: 1.5em;"><strong>Santiago Ortiz Laverde</strong></p>
-    <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>MS in Process Design and Management, Universidad de La Sabana, Colombia</em></p>
-    <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Universidad de La Sabana, Colombia</em></p>
-    <p style="text-align: justify;">Santiago is working on developing novel materials and processes for sustainable chemical production, focusing on enhancing efficiency and scalability in industrial applications.</p>
-  </div>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Shreya.jpg" alt="Shreya Thakkar" style="width: 200px; height: auto;">
-    <p>
-      <a href="https://www.linkedin.com/in/shreya-thakkar-56798b1b4/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
-      </a> |
-      <a href="https://scholar.google.com/citations?hl=en&user=iDzwZDQAAAAJ">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
-      </a>
-    </p>
-  </div>
-  <div>
-    <p style="font-size: 1.5em;"><strong>Shreya Thakkar</strong></p>
-    <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>MS in Chemical Engineering, University of Massachusetts Amherst, USA</em></p>
-    <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
-    <p style="text-align: justify;">Shreya is investigating the development of advanced materials for energy storage and conversion applications, aiming to improve performance and durability in practical settings.</p>
-  </div>
-</div>
 
 <!-- Undergraduate Researchers Section -->
 <div style="text-align: center;">
