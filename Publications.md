@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+---
 
 1. **Unsupported Pt Nanoparticles: Synthesis, Deactivation, and Hydrogen Electrocatalysis in Unpurified Electrolytes**  
    _Rituja B. Patil, Samantha L. Roenigk, Advay N. Shirwalkar, Qiudi Meng, James R. McKone_  
