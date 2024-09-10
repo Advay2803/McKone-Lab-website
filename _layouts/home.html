@@ -4,22 +4,8 @@ layout: page
 
 {{ content }}
 
-<!-- Remove or comment out this section to remove posts from the homepage -->
-{%- comment -%}
-{% assign posts = paginator.posts | default: site.posts %}
-<ul class="posts-list list-unstyled" role="list">
-  {% for post in posts %}
-  <li class="post-preview">
-    <article>
-      <!-- Post preview content here -->
-    </article>
-  </li>
-  {% endfor %}
-</ul>
-{% endcomment %}
-
 <!-- Carousel -->
-<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
   <!-- Indicators for slides -->
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
