@@ -40,10 +40,10 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 850px; height: auto;">
     <p>
       <a href="https://linkedin.com/in/pi_linkedin">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a>
     </p>
   </div>
@@ -73,7 +73,7 @@ permalink: /people/
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
           </a> |
           <a href="https://scholar.google.com/citations?user=1mKkBC4AAAAJ&hl=en&oi=ao">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 25px; height: 25px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
           </a>
         </p>
       </div>
@@ -97,10 +97,10 @@ permalink: /people/
       <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Becca.jpg" alt="Rebecca Segel" style="width: 200px; height: auto;">
       <p>
         <a href="https://linkedin.com/in/pi_linkedin">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
         </a> |
         <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
         </a>
       </p>
     </div>
@@ -116,10 +116,10 @@ permalink: /people/
       <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 200px; height: auto;">
       <p>
         <a href="https://linkedin.com/in/pi_linkedin">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
         </a> |
         <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
         </a>
       </p>
     </div>
@@ -135,10 +135,10 @@ permalink: /people/
       <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Sammie.jpg" alt="Samantha Roegnik" style="width: 200px; height: auto;">
       <p>
         <a href="https://linkedin.com/in/pi_linkedin">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
         </a> |
         <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
         </a>
       </p>
     </div>
@@ -151,13 +151,13 @@ permalink: /people/
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Advay.jpg" alt="Advay Shirwalkar" style="width: 200px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Advay.jpg" alt="Advay Shirwalkar" style="width: 500px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?hl=en&user=iDzwZDQAAAAJ">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a>
     </p>
   </div>
@@ -173,10 +173,10 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Santi.jpg" alt="Santiago Ortiz Laverde" style="width: 200px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/santiago-ortiz-laverde-80232021b/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?hl=en&user=e00t6PwAAAAJ">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a>
     </p>
   </div>
@@ -193,10 +193,10 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Shreya.jpg" alt="Shreya Thakkar" style="width: 200px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/shreya-thakkar-56798b1b4/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?hl=en&user=iDzwZDQAAAAJ">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a>
     </p>
   </div>
