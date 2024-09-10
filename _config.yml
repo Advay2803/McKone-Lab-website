@@ -157,7 +157,7 @@ footer-hover-col: "#ffb81c"
 
 /* Add this in your CSS file */
 body {
-  background-image: url('/https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/Pitt%20bg.jpg');
+  background-image: url('https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/Pitt%20bg.jpg');
   background-size: cover; /* Ensures the image covers the full screen */
   background-position: center;
   background-repeat: no-repeat;
