@@ -1,0 +1,33 @@
+/* Style for the main About Us container */
+.about-us-box {
+  background-color: #FFB81C; /* Updated golden yellow background */
+  border-radius: 25px; /* Rounded corners */
+  border: 3px solid #003594; /* Updated royal blue border */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  color: #003594; /* Updated royal blue text color */
+}
+
+/* Style for the About Us title */
+.about-us-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #003594; /* Updated royal blue text color */
+}
+
+/* Common style for Vision and Mission boxes */
+.vision-box, .mission-box {
+  background-color: #FFB81C; /* Updated golden yellow background */
+  border-radius: 15px; /* Rounded corners */
+  border: 3px solid #003594; /* Updated royal blue border */
+  color: #003594; /* Updated royal blue text color */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Slight shadow */
+  margin-bottom: 20px;
+}
+
+/* Optional: Add hover effect */
+.vision-box:hover, .mission-box:hover {
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  transform: translateY(-3px); /* Subtle hover lift */
+  transition: 0.3s ease;
+}
