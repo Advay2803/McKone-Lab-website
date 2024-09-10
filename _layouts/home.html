@@ -19,53 +19,49 @@ layout: page
   <div class="carousel-inner">
     <!-- Slide 1 -->
     <div class="carousel-item active">
-      <div class="card mx-auto" style="width: 800px; height: 600px;">
-        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 1" style="height: 50%;">
-        <div class="card-body" style="background-color: black; color: white;">
+      <div class="card" style="width: 400px; height: 800px; background-color: #007bff; color: #ffc107;">
+        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 1" style="height: 50%; width: 100%;">
+        <div class="card-body" style="text-align: center; font-family: sans-serif;">
           <h5 class="card-title">Slide 1 Title</h5>
-          <p class="card-text">Slide 1 description goes here.</p>
+          <p class="card-text">Slide 1 description goes here. Modify as per your content needs.</p>
         </div>
       </div>
     </div>
-
     <!-- Slide 2 -->
     <div class="carousel-item">
-      <div class="card mx-auto" style="width: 800px; height: 600px;">
-        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 2" style="height: 50%;">
-        <div class="card-body" style="background-color: black; color: white;">
+      <div class="card" style="width: 400px; height: 800px; background-color: #007bff; color: #ffc107;">
+        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 2" style="height: 50%; width: 100%;">
+        <div class="card-body" style="text-align: center; font-family: sans-serif;">
           <h5 class="card-title">Slide 2 Title</h5>
           <p class="card-text">Slide 2 description goes here.</p>
         </div>
       </div>
     </div>
-
     <!-- Slide 3 -->
     <div class="carousel-item">
-      <div class="card mx-auto" style="width: 800px; height: 600px;">
-        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 3" style="height: 50%;">
-        <div class="card-body" style="background-color: black; color: white;">
+      <div class="card" style="width: 400px; height: 800px; background-color: #007bff; color: #ffc107;">
+        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 3" style="height: 50%; width: 100%;">
+        <div class="card-body" style="text-align: center; font-family: sans-serif;">
           <h5 class="card-title">Slide 3 Title</h5>
           <p class="card-text">Slide 3 description goes here.</p>
         </div>
       </div>
     </div>
-
     <!-- Slide 4 -->
     <div class="carousel-item">
-      <div class="card mx-auto" style="width: 800px; height: 600px;">
-        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 4" style="height: 50%;">
-        <div class="card-body" style="background-color: black; color: white;">
+      <div class="card" style="width: 400px; height: 800px; background-color: #007bff; color: #ffc107;">
+        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 4" style="height: 50%; width: 100%;">
+        <div class="card-body" style="text-align: center; font-family: sans-serif;">
           <h5 class="card-title">Slide 4 Title</h5>
           <p class="card-text">Slide 4 description goes here.</p>
         </div>
       </div>
     </div>
-
     <!-- Slide 5 -->
     <div class="carousel-item">
-      <div class="card mx-auto" style="width: 800px; height: 600px;">
-        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 5" style="height: 50%;">
-        <div class="card-body" style="background-color: black; color: white;">
+      <div class="card" style="width: 400px; height: 800px; background-color: #007bff; color: #ffc107;">
+        <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="card-img-top" alt="Slide 5" style="height: 50%; width: 100%;">
+        <div class="card-body" style="text-align: center; font-family: sans-serif;">
           <h5 class="card-title">Slide 5 Title</h5>
           <p class="card-text">Slide 5 description goes here.</p>
         </div>
@@ -86,19 +82,19 @@ layout: page
 
 <script>
   const carousel = document.querySelector('#carouselExampleCaptions');
-  const captions = document.querySelectorAll('.carousel-caption');
+  const cards = document.querySelectorAll('.card');
 
-  // Function to update captions based on the active slide
-  const updateCaptions = () => {
+  // Function to update the active card
+  const updateActiveCard = () => {
     const activeIndex = Array.from(document.querySelectorAll('.carousel-item')).findIndex(item => item.classList.contains('active'));
-    captions.forEach((caption, index) => {
-      caption.style.display = (index == activeIndex) ? 'block' : 'none';
+    cards.forEach((card, index) => {
+      card.style.display = (index == activeIndex) ? 'block' : 'none';
     });
   };
 
   // Event listener for carousel slide events
-  carousel.addEventListener('slide.bs.carousel', updateCaptions);
+  carousel.addEventListener('slide.bs.carousel', updateActiveCard);
 
-  // Initialize captions
-  updateCaptions();
+  // Initialize the active card display
+  updateActiveCard();
 </script>
