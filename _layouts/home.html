@@ -19,27 +19,47 @@ layout: page
   <div class="carousel-inner">
     <!-- Slide 1 -->
     <div class="carousel-item active">
-      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-75 mx-auto" alt="Slide 1" style="height:400px;">
+      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-100" alt="Slide 1">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Slide 1 Title</h5>
+        <p>Slide 1 description goes here.</p>
+      </div>
     </div>
     <!-- Slide 2 -->
     <div class="carousel-item">
-      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-75 mx-auto" alt="Slide 2" style="height:400px;">
+      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-100" alt="Slide 2">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Slide 2 Title</h5>
+        <p>Slide 2 description goes here.</p>
+      </div>
     </div>
     <!-- Slide 3 -->
     <div class="carousel-item">
-      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-75 mx-auto" alt="Slide 3" style="height:400px;">
+      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-100" alt="Slide 3">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Slide 3 Title</h5>
+        <p>Slide 3 description goes here.</p>
+      </div>
     </div>
     <!-- Slide 4 -->
     <div class="carousel-item">
-      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-75 mx-auto" alt="Slide 4" style="height:400px;">
+      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-100" alt="Slide 4">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Slide 4 Title</h5>
+        <p>Slide 4 description goes here.</p>
+      </div>
     </div>
     <!-- Slide 5 -->
     <div class="carousel-item">
-      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-75 mx-auto" alt="Slide 5" style="height:400px;">
+      <img src="https://github.com/Advay2803/advay2803.github.io/blob/master/assets/img/img.jpeg?raw=true" class="d-block w-100" alt="Slide 5">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Slide 5 Title</h5>
+        <p>Slide 5 description goes here.</p>
+      </div>
     </div>
   </div>
 
-  <!-- Carousel controls -->
+  <!-- Carousel controls (Optional: to go to next/previous slide) -->
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
@@ -49,46 +69,3 @@ layout: page
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
-<!-- Captions for each slide (outside of the carousel) -->
-<div class="carousel-caption-area">
-  <div class="carousel-caption d-none d-md-block" id="caption-0">
-    <h5>Slide 1 Title</h5>
-    <p>Slide 1 description goes here.</p>
-  </div>
-  <div class="carousel-caption d-none d-md-block" id="caption-1">
-    <h5>Slide 2 Title</h5>
-    <p>Slide 2 description goes here.</p>
-  </div>
-  <div class="carousel-caption d-none d-md-block" id="caption-2">
-    <h5>Slide 3 Title</h5>
-    <p>Slide 3 description goes here.</p>
-  </div>
-  <div class="carousel-caption d-none d-md-block" id="caption-3">
-    <h5>Slide 4 Title</h5>
-    <p>Slide 4 description goes here.</p>
-  </div>
-  <div class="carousel-caption d-none d-md-block" id="caption-4">
-    <h5>Slide 5 Title</h5>
-    <p>Slide 5 description goes here.</p>
-  </div>
-</div>
-
-<script>
-  const carousel = document.querySelector('#carouselExampleCaptions');
-  const captions = document.querySelectorAll('.carousel-caption');
-
-  // Function to update captions based on the active slide
-  const updateCaptions = () => {
-    const activeIndex = document.querySelector('.carousel-item.active').getAttribute('data-bs-slide-to');
-    captions.forEach((caption, index) => {
-      caption.style.display = (index == activeIndex) ? 'block' : 'none';
-    });
-  };
-
-  // Event listener for carousel slide events
-  carousel.addEventListener('slide.bs.carousel', updateCaptions);
-
-  // Initialize captions
-  updateCaptions();
-</script>
