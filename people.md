@@ -73,7 +73,7 @@ permalink: /people/
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
           </a> |
           <a href="https://scholar.google.com/citations?user=1mKkBC4AAAAJ&hl=en&oi=ao">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 30px; height: 30px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 25px; height: 25px;">
           </a>
         </p>
       </div>
