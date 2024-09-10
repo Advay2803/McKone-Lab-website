@@ -157,29 +157,8 @@ footer-hover-col: "#ffb81c"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/Pitt bg.jpg"
-
-/* Apply this to the body or a specific container */
-#page-background {
-  position: relative;
-  overflow: hidden;
-}
-
-/* Pseudo-element for background image */
-#page-background::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url('/assets/img/Pitt bg.jpg'); /* Ensure path is correct */
-  background-size: cover;
-  background-position: center;
-  opacity: 0.5; /* Adjust the opacity as needed */
-  z-index: -1; /* Ensure it's behind other content */
-}
-
+page-img: "/assets/img/Pitt bg.jpg"
+opacity :0.5
 
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
