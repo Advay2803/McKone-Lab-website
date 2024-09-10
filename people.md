@@ -78,11 +78,12 @@ permalink: /people/
         </p>
       </div>
       <div>
-        <p style="font-size: 1.5em;"><strong>Dr. Payman Sharifi Abdar</strong></p>
-        <p>PhD in Chemical Engineering, Ohio University, USA</p>
-        <p>MS in Environmental Engineering, Stuttgart University, Geramany</p>
-        <p>BS in Chemical Engineering, Sharif University of Technology, Iran</p>
-        <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is especifically studying on tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
+    <p style="font-size: 1.5em;"><strong>Dr. Payman Sharifi Abdar</strong></p>
+    <p><em>PhD in Chemical Engineering, Ohio University, USA</em></p>
+    <p><em>MS in Environmental Engineering, Stuttgart University, Germany</em></p>
+    <p><em>BS in Chemical Engineering, Sharif University of Technology, Iran</em></p>
+    <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
+
       </div>
     </div>
   </div>
