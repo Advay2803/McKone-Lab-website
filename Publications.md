@@ -1,106 +1,109 @@
-# Publications
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
 
-## Patil, Rituja B., Samantha L. Roenigk, Advay N. Shirwalkar, Qiudi Meng, and James R. McKone
-**"Unsupported Pt Nanoparticles: Synthesis, Deactivation, and Hydrogen Electrocatalysis in Unpurified Electrolytes."**  
-*Journal of The Electrochemical Society* **171, no. 3 (2024): 036509.**  
-[Link to Journal](https://iopscience.iop.org/article/10.1149/1945-7111/abfc3a)
+## Publications
 
-## Lu, Zhou, Shannon E. Cooney, James R. McKone, and Ellen M. Matson
-**"Selective Hydrogenation of Azobenzene to Hydrazobenzene via Proton-Coupled Electron Transfer from a Polyoxotungstate Cluster."**  
-*JACS Au* **4, no. 4 (2024): 1310-1314.**  
-[Link to Journal](https://pubs.acs.org/doi/10.1021/jacsau.4c00042)
+1. **Unsupported Pt Nanoparticles: Synthesis, Deactivation, and Hydrogen Electrocatalysis in Unpurified Electrolytes**  
+   _Authors:_ Rituja B. Patil, Samantha L. Roenigk, Advay N. Shirwalkar, Qiudi Meng, James R. McKone  
+   _Journal:_ Journal of The Electrochemical Society 171, no. 3 (2024): 036509.
 
-## Dagar, Mamta, DMM Mevan Dissanyake, Daniel N. Kesler, Molly Corr, Joshua D. McPherson, William W. Brennessel, James R. McKone, and Ellen M. Matson
-**"Improved solubility of titanium-doped polyoxovanadate charge carriers for symmetric non-aqueous redox flow batteries."**  
-*Dalton Transactions* **53, no. 1 (2024): 93-104.**  
-[Link to Journal](https://pubs.rsc.org/en/content/articlelanding/2024/dt/d3dt03571a)
+2. **Selective Hydrogenation of Azobenzene to Hydrazobenzene via Proton-Coupled Electron Transfer from a Polyoxotungstate Cluster**  
+   _Authors:_ Zhou Lu, Shannon E. Cooney, James R. McKone, Ellen M. Matson  
+   _Journal:_ JACS Au 4, no. 4 (2024): 1310-1314.
 
-## Miu, Evan V., James R. McKone, and Giannis Mpourmpakis
-**"Global and local connectivities describe hydrogen intercalation in metal oxides."**  
-*Physical Review Letters* **131, no. 10 (2023): 108001.**  
-[Link to Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.108001)
+3. **Improved solubility of titanium-doped polyoxovanadate charge carriers for symmetric non-aqueous redox flow batteries**  
+   _Authors:_ Mamta Dagar, DMM Mevan Dissanyake, Daniel N. Kesler, Molly Corr, Joshua D. McPherson, William W. Brennessel, James R. McKone, Ellen M. Matson  
+   _Journal:_ Dalton Transactions 53, no. 1 (2024): 93-104.
 
-## Welgama, Heshali K., Matthew R. Crawley, James R. McKone, and Timothy R. Cook
-**"Investigations of Nanoparticle Suspensions of Prussian Blue and Its Copper Analogue: Amine Functionalization and Electrochemical Studies."**  
-*Inorganic Chemistry* **62, no. 4 (2023): 1455-1465.**  
-[Link to Journal](https://pubs.acs.org/doi/10.1021/acs.inorgchem.2c02967)
+4. **Global and local connectivities describe hydrogen intercalation in metal oxides**  
+   _Authors:_ Evan V. Miu, James R. McKone, Giannis Mpourmpakis  
+   _Journal:_ Physical Review Letters 131, no. 10 (2023): 108001.
 
-## Dagar, Mamta, Molly Corr, Timothy R. Cook, James R. McKone, and Ellen M. Matson
-**"Solvent mixtures for improved electron transfer kinetics of titanium-doped polyoxovanadate-alkoxide clusters."**  
-*Journal of Materials Chemistry A* **11, no. 25 (2023): 13729-13741.**  
-[Link to Journal](https://pubs.rsc.org/en/content/articlelanding/2023/jm/a3jm01234h)
+5. **Investigations of Nanoparticle Suspensions of Prussian Blue and Its Copper Analogue: Amine Functionalization and Electrochemical Studies**  
+   _Authors:_ Heshali K. Welgama, Matthew R. Crawley, James R. McKone, Timothy R. Cook  
+   _Journal:_ Inorganic Chemistry 62, no. 4 (2023): 1455-1465.
 
-## Patil, Rituja B., Manjodh Kaur, Stephen D. House, Lance Kavalsky, Keda Hu, Shirley Zhong, Dilip Krishnamurthy et al.
-**"Reversible alkaline hydrogen evolution and oxidation reactions using Ni–Mo catalysts supported on carbon."**  
-*Energy Advances* **2, no. 9 (2023): 1500-1511.**  
-[Link to Journal](https://pubs.rsc.org/en/content/articlelanding/2023/ea/d3ea00123d)
+6. **Solvent mixtures for improved electron transfer kinetics of titanium-doped polyoxovanadate-alkoxide clusters**  
+   _Authors:_ Mamta Dagar, Molly Corr, Timothy R. Cook, James R. McKone, Ellen M. Matson  
+   _Journal:_ Journal of Materials Chemistry A 11, no. 25 (2023): 13729-13741.
 
-## Keith, John A., James R. McKone, Joshua D. Snyder, and Maureen H. Tang
-**"Deeper learning in electrocatalysis: realizing opportunities and addressing challenges."**  
-*Current Opinion in Chemical Engineering* **36 (2022): 100824.**  
-[Link to Journal](https://www.sciencedirect.com/science/article/pii/S2211339822000511)
+7. **Reversible alkaline hydrogen evolution and oxidation reactions using Ni–Mo catalysts supported on carbon**  
+   _Authors:_ Rituja B. Patil, Manjodh Kaur, Stephen D. House, Lance Kavalsky, Keda Hu, Shirley Zhong, Dilip Krishnamurthy et al.  
+   _Journal:_ Energy Advances 2, no. 9 (2023): 1500-1511.
 
-## Miu, Evan V., James R. McKone, and Giannis Mpourmpakis
-**"The sensitivity of metal oxide electrocatalysis to bulk hydrogen intercalation: hydrogen evolution on tungsten oxide."**  
-*Journal of the American Chemical Society* **144, no. 14 (2022): 6420-6433.**  
-[Link to Journal](https://pubs.acs.org/doi/10.1021/jacs.2c01234)
+8. **Deeper learning in electrocatalysis: realizing opportunities and addressing challenges**  
+   _Authors:_ John A. Keith, James R. McKone, Joshua D. Snyder, Maureen H. Tang  
+   _Journal:_ Current Opinion in Chemical Engineering 36 (2022): 100824.
 
-## Segel, Becca, Zachary Parr, Tejal V. Sawant, Carissa S. Yim, Dean M. Miller, Thomas J. Henry, and James R. McKone
-**"Flow battery electroanalysis 3: online kinetics measurements using ultramicroelectrodes in channel flow."**  
-*Journal of Materials Chemistry A* **10, no. 26 (2022): 13917-13927.**  
-[Link to Journal](https://pubs.rsc.org/en/content/articlelanding/2022/jm/a2jm01234f)
+9. **The sensitivity of metal oxide electrocatalysis to bulk hydrogen intercalation: hydrogen evolution on tungsten oxide**  
+   _Authors:_ Evan V. Miu, James R. McKone, Giannis Mpourmpakis  
+   _Journal:_ Journal of the American Chemical Society 144, no. 14 (2022): 6420-6433.
 
-## Garwick, Rachel E., Eric Schreiber, William W. Brennessel, James R. McKone, and Ellen M. Matson
-**"Surface ligands influence the selectivity of cation uptake in polyoxovanadate–alkoxide clusters."**  
-*Journal of Materials Chemistry A* **10, no. 22 (2022): 12070-12078.**  
-[Link to Journal](https://pubs.rsc.org/en/content/articlelanding/2022/jm/a2jm01234g)
+10. **Flow battery electroanalysis 3: online kinetics measurements using ultramicroelectrodes in channel flow**  
+    _Authors:_ Becca Segel, Zachary Parr, Tejal V. Sawant, Carissa S. Yim, Dean M. Miller, Thomas J. Henry, James R. McKone  
+    _Journal:_ Journal of Materials Chemistry A 10, no. 26 (2022): 13917-13927.
 
-## Fertig, Alex A., William W. Brennessel, James R. McKone, and Ellen M. Matson
-**"Concerted Multiproton–Multielectron Transfer for the Reduction of O2 to H2O with a Polyoxovanadate Cluster."**  
-*Journal of the American Chemical Society* **143, no. 38 (2021): 15756-15768.**  
-[Link to Journal](https://pubs.acs.org/doi/10.1021/jacs.1c04863)
+11. **Surface ligands influence the selectivity of cation uptake in polyoxovanadate–alkoxide clusters**  
+    _Authors:_ Rachel E. Garwick, Eric Schreiber, William W. Brennessel, James R. McKone, Ellen M. Matson  
+    _Journal:_ Journal of Materials Chemistry A 10, no. 22 (2022): 12070-12078.
 
-## Sawant, Tejal V., Carissa S. Yim, Thomas J. Henry, Dean M. Miller, and James R. McKone
-**"Harnessing interfacial electron transfer in redox flow batteries."**  
-*Joule* **5, no. 2 (2021): 360-378.**  
-[Link to Journal](https://www.cell.com/joule/fulltext/S2542-4351(20)30595-2)
+12. **Concerted Multiproton–Multielectron Transfer for the Reduction of O2 to H2O with a Polyoxovanadate Cluster**  
+    _Authors:_ Alex A. Fertig, William W. Brennessel, James R. McKone, Ellen M. Matson  
+    _Journal:_ Journal of the American Chemical Society 143, no. 38 (2021): 15756-15768.
 
-## Yang, Timothy T., Rituja B. Patil, James R. McKone, and Wissam A. Saidi
-**"Revisiting trends in the exchange current for hydrogen evolution."**  
-*Catalysis Science & Technology* **11, no. 20 (2021): 6832-6838.**  
-[Link to Journal](https://pubs.rsc.org/en/content/articlelanding/2021/cy/d1cy00876a)
+13. **Harnessing interfacial electron transfer in redox flow batteries**  
+    _Authors:_ Tejal V. Sawant, Carissa S. Yim, Thomas J. Henry, Dean M. Miller, James R. McKone  
+    _Journal:_ Joule 5, no. 2 (2021): 360-378.
 
-## Miu, Evan V., Giannis Mpourmpakis, and James R. McKone
-**"Predicting the energetics of hydrogen intercalation in metal oxides using acid–base properties."**  
-*ACS Applied Materials & Interfaces* **12, no. 40 (2020): 44658-44670.**  
-[Link to Journal](https://pubs.acs.org/doi/10.1021/acsami.0c11234)
+14. **Revisiting trends in the exchange current for hydrogen evolution**  
+    _Authors:_ Timothy T. Yang, Rituja B. Patil, James R. McKone, Wissam A. Saidi  
+    _Journal:_ Catalysis Science & Technology 11, no. 20 (2021): 6832-6838.
 
-## Patil, Rituja B., Stephen D. House, Aayush Mantri, Judith C. Yang, and James R. McKone
-**"Direct observation of Ni–Mo bimetallic catalyst formation via thermal reduction of nickel molybdate nanorods."**  
-*ACS Catalysis* **10, no. 18 (2020): 10390-10398.**  
-[Link to Journal](https://pubs.acs.org/doi/10.1021/acscatal.0c02787)
+15. **Predicting the energetics of hydrogen intercalation in metal oxides using acid–base properties**  
+    _Authors:_ Evan V. Miu, Giannis Mpourmpakis, James R. McKone  
+    _Journal:_ ACS Applied Materials & Interfaces 12, no. 40 (2020): 44658-44670.
 
-## Schreiber, Eric, Niamh A. Hartley, William W. Brennessel, Timothy R. Cook, James R. McKone, and Ellen M. Matson
-**"An Organofunctionalized Polyoxovanadium Cluster as a Molecular Model of Interfacial Pseudocapacitance."**  
-*ACS Applied Energy Materials* **2, no. 12 (2019): 8985-8993.**  
-[Link to Journal](https://pubs.acs.org/doi/10.1021/acsaem.9b02342)
+16. **Direct observation of Ni–Mo bimetallic catalyst formation via thermal reduction of nickel molybdate nanorods**  
+    _Authors:_ Rituja B. Patil, Stephen D. House, Aayush Mantri, Judith C. Yang, James R. McKone  
+    _Journal:_ ACS Catalysis 10, no. 18 (2020): 10390-10398.
 
-## Xu, Ke, Jierui Liang, Aaron Woeppel, M. Eli Bostian, Hangjun Ding, Zhongmou Chao, James R. McKone, Eric J. Beckman, and Susan K. Fullerton-Shirey
-**"Electric double-layer gating of two-dimensional field-effect transistors using a single-ion conductor."**  
-*ACS Applied Materials & Interfaces* **11, no. 39 (2019): 35879-35887.**  
-[Link to Journal](https://pubs.acs.org/doi/10.1021/acsami.9b08946)
+17. **An Organofunctionalized Polyoxovanadium Cluster as a Molecular Model of Interfacial Pseudocapacitance**  
+    _Authors:_ Eric Schreiber, Niamh A. Hartley, William W. Brennessel, Timothy R. Cook, James R. McKone, Ellen M. Matson  
+    _Journal:_ ACS Applied Energy Materials 2, no. 12 (2019): 8985-8993.
 
-## Liu, Xiang, Laura M. Zhuang, and James R. McKone
-**"Enhanced ionic conductivity in a composite polymer electrolyte by the incorporation of carbon nanofibers."**  
-*Journal of Power Sources* **401 (2018): 188-194.**  
-[Link to Journal](https://www.sciencedirect.com/science/article/pii/S0378775317315982)
+18. **Electric double-layer gating of two-dimensional field-effect transistors using a single-ion conductor**  
+    _Authors:_ Ke Xu, Jierui Liang, Aaron Woeppel, M. Eli Bostian, Hangjun Ding, Zhongmou Chao, James R. McKone, Eric J. Beckman, Susan K. Fullerton-Shirey  
+    _Journal:_ ACS applied materials & interfaces 11, no. 39 (2019): 35879-35887.
 
-## Segel, Becca, Zachary Parr, Carissa S. Yim, Dean M. Miller, Thomas J. Henry, and James R. McKone
-**"Electrochemical and Spectroscopic Studies of Lithium-Ion Conductors."**  
-*Materials Science & Engineering R: Reports* **134 (2018): 1-13.**  
-[Link to Journal](https://www.sciencedirect.com/science/article/pii/S0927796X17301456)
+19. **Enhancing the performance of Ni-Mo alkaline hydrogen evolution electrocatalysts with carbon supports**  
+    _Authors:_ R.B. Patil, A. Mantri, S.D. House, J.C. Yang, J.R. McKone  
+    _Journal:_ ACS Applied Energy Materials 2 (4), 2524-2533 (2019).
 
-## Miao, Xiaohui, Yuanyuan Li, Zhiqiang Li, James R. McKone, and Jianjun Hu
-**"Fabrication of stable perovskite oxide nanowires for high-performance lithium-ion batteries."**  
-*Advanced Energy Materials* **8, no. 16 (2018): 1703385.**  
-[Link to Journal](https://onlinelibrary.wiley.com/doi/10.1002/aenm.201703385)
+20. **Carbon Supports Mitigate Resistivity Limitations in Ni–Mo Alkaline Hydrogen Evolution Electrocatalysts**  
+    _Authors:_ R.B. Patil, A. Mantri, S. House, J. Yang, J.R. McKone  
+    _Status:_ In Review [ChemRxiv preprint available at DOI: 10.26434/chemrxiv.7037264].
+
+21. **Comparisons of WO3 reduction to HxWO3 under thermochemical and electrochemical control**  
+    _Authors:_ Evan V. Miu, James R. McKone  
+    _Journal:_ Journal of Materials Chemistry A 7, (41), 23756-23761 (2019).
+
+22. **Flow Battery Electroanalysis 2: Influence of Surface Pretreatment on Fe(III/II) Redox Chemistry at Carbon Electrodes**  
+    _Authors:_ Tejal Sawant, James R. McKone  
+    _Journal:_ Journal of Physical Chemistry C 123 (2019): 144–152.
+
+23. **Flow Battery Electroanalysis: Hydrodynamic Voltammetry of Aqueous Fe(III/II) Redox Couples at Polycrystalline Pt and Au**  
+    _Authors:_ Tejal Sawant, James R. McKone  
+    _Journal:_ ACS Applied Energy Materials 1 (2018): 4743–4753.
+
+24. **Elucidating the active sites for CO2 electroreduction on ligand-protected Au25 nanoclusters**  
+    _Authors:_ N. Austin, S. Zhao, J. Jin, R. Mpourmpakis, J. McKone  
+    _Journal:_ Catalysis Science and Technology 8 (2018): 3795-3805.
+
+25. **Solar Energy Conversion, Storage, and Release Using an Integrated Solar-Driven Redox Flow Battery**  
+    _Authors:_ J.R. McKone, R. Doughty, J. McGrath, L. Zhang  
+    _Journal:_ Journal of Energy Storage 15 (2017): 79-88.
+
+Feel free to adjust any titles or details as needed!
