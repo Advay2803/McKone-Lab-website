@@ -52,13 +52,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  github: daattali
-  twitter: daattali
-  google-scholar: your google scholar
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "jmckone@pitt.edu"
+  github: https://github.com/mckonelab
+#  twitter: daattali
+  google-scholar: https://scholar.google.com/citations?user=ZtaEkhQAAAAJ&hl=en
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
