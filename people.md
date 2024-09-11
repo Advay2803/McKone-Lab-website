@@ -28,10 +28,6 @@ permalink: /people/
 
 ---
 
-<!-- Current Post-Doctoral Researchers -->
-<div style="text-align: center;">
-  <p><strong style="font-size: 1.5em;">Post-Doctoral Researchers</strong></p>
-</div>
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abda" style="width: 850px; height: auto;">
@@ -46,6 +42,7 @@ permalink: /people/
   </div>
   <div>
     <p style="font-size: 1.5em;"><strong>Dr. Payman Sharifi Abdar</strong></p>
+    <p style="margin-top: 0.3em;"font-size: 0.7em;"><strong>Post-Doctoral Associate</strong></p>
     <p style="margin-bottom: 0.3em;"><em>PhD in Chemical Engineering, Ohio University, USA</em></p>
     <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>MS in Environmental Engineering, Stuttgart University, Germany</em></p>
     <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Sharif University of Technology, Iran</em></p>
