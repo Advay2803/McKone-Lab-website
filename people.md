@@ -26,10 +26,7 @@ permalink: /people/
   </div>
 </div>
 
-<!-- Current Members Section -->
-<div style="text-align: center;">
-  <p><strong style="font-size: 2em;">Current Members</strong></p>
-</div>
+---
 
 <!-- Current Post-Doctoral Researchers -->
 <div style="text-align: center;">
@@ -53,91 +50,5 @@ permalink: /people/
     <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>MS in Environmental Engineering, Stuttgart University, Germany</em></p>
     <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Sharif University of Technology, Iran</em></p>
     <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
-  </div>
-</div>
-
-<!-- Current Graduate Researchers -->
-<div style="text-align: center;">
-  <p><strong style="font-size: 1.5em;">Graduate Researchers</strong></p>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 25px;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Becca.jpg" alt="Rebecca Segel" style="width: 200px; height: auto;">
-    <p>
-      <a href="https://linkedin.com/in/pi_linkedin">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
-      </a> |
-      <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
-      </a>
-    </p>
-  </div>
-  <div>
-    <p style="font-size: 1.5em;"><strong>Rebecca Segel</strong></p>
-    <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, Case Western Reserve University, USA</em></p>
-    <p style="text-align: justify;">Rebecca’s research focuses on electrochemical systems and sustainable energy technologies.</p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 25px;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 200px; height: auto;">
-    <p>
-      <a href="https://linkedin.com/in/pi_linkedin">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
-      </a> |
-      <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
-      </a>
-    </p>
-  </div>
-  <div>
-    <p style="font-size: 1.5em;"><strong>Robert Hacku</strong></p>
-    <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemistry, Clarion University, USA</em></p>
-    <p style="text-align: justify;">Rob's research focuses on electrochemical systems and sustainable energy technologies.</p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Sammie.jpg" alt="Samantha Roegnik" style="width: 200px; height: auto;">
-    <p>
-      <a href="https://linkedin.com/in/pi_linkedin">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
-      </a> |
-      <a href="https://scholar.google.com/citations?user=pi_scholar_id">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
-      </a>
-    </p>
-  </div>
-  <div>
-    <p style="font-size: 1.5em;"><strong>Samantha Roegnik</strong></p>
-    <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, University of Pittsburgh, USA</em></p>
-    <p style="text-align: justify;">Samantha is studying advanced materials for energy applications.</p>
-  </div>
-</div>
-
-<!-- Graduate Students Section -->
-<div style="text-align: center;">
-  <p><strong style="font-size: 1.5em;">Graduate Students</strong></p>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/GradStudent.jpg" alt="Graduate Student" style="width: 200px; height: auto;">
-    <p>
-      <a href="https://linkedin.com/in/student_linkedin">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 18px; height: 18px;">
-      </a> |
-      <a href="https://scholar.google.com/citations?user=student_scholar_id">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 18px; height: 18px;">
-      </a>
-    </p>
-  </div>
-  <div>
-    <p style="font-size: 1.5em;"><strong>Graduate Student Name</strong></p>
-    <p style="margin-top: 0.3em; margin-bottom: 0.3em;"><em>BS in Chemical Engineering, University Name, Country</em></p>
-    <p style="text-align: justify;">Student's research focuses on topic.</p>
   </div>
 </div>
