@@ -15,7 +15,7 @@ layout: page
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
   </div>
 
-  <!-- Slides with visibility for adjacent slides -->
+  <!-- Slides -->
   <div class="carousel-inner">
     <!-- Slide 1 -->
     <div class="carousel-item active">
@@ -84,45 +84,11 @@ layout: page
   </button>
 </div>
 
-<style>
-  .carousel-inner {
-    display: flex;
-    justify-content: center;
-  }
-
-  .carousel-item {
-    transform: scale(0.8);
-    opacity: 0.5;
-    transition: transform 0.5s ease, opacity 0.5s ease;
-  }
-
-  .carousel-item.active {
-    transform: scale(1);
-    opacity: 1;
-  }
-
-  .carousel-item-next,
-  .carousel-item-prev {
-    transform: translateX(10%);
-    opacity: 0.7;
-  }
-
-  .carousel-item-next.carousel-item-left,
-  .carousel-item-prev.carousel-item-right {
-    transform: translateX(0);
-  }
-
-  .carousel-control-prev,
-  .carousel-control-next {
-    z-index: 1;
-  }
-</style>
-
 <script>
   const carousel = document.querySelector('#carouselExampleCaptions');
   const cards = document.querySelectorAll('.carousel-item');
 
-  // Adjust visibility for adjacent slides
+  // Adjust captions display when the slide changes
   carousel.addEventListener('slide.bs.carousel', () => {
     const activeIndex = Array.from(cards).findIndex(item => item.classList.contains('active'));
   });
