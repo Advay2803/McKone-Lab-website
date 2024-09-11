@@ -157,8 +157,8 @@ footer-hover-col: "#ffb81c"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/Pitt bg.jpg"
-opacity :0.5
+#page-img: "/assets/img/Pitt bg.jpg"
+#opacity :0.5
 
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
