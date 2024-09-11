@@ -29,7 +29,7 @@ permalink: /people/
 ---
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 850px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 950px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/payman-sharifi-64435b54/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
