@@ -15,6 +15,3 @@ Here’s a section with some more details.
 - Point 1
 - Point 2
 
-![Image Description](https://example.com/image.jpg)
-
-[Read more](https://example.com)
