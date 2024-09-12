@@ -5,4 +5,4 @@ subtitle: "McKone lab welcomes two new undergraduate students, Jim and Craig for
 date: 2017-05-20 10:00:00
 ---
 
-![Crepe](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/labin260days.png){: .mx-auto.d-block :}
+![Crepe](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Summer%20Research%202017.png){: .mx-auto.d-block :}
