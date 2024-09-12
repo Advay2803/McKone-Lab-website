@@ -22,7 +22,7 @@ past member
     <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
   </div>
 </div>
-#---
+---
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 950px; height: auto;">
@@ -45,7 +45,7 @@ past member
     <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
   </div>
 </div>
-#---
+---
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 950px; height: auto;">
@@ -68,7 +68,7 @@ past member
     <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
   </div>
 </div>
-#---
+---
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 950px; height: auto;">
