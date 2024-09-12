@@ -14,7 +14,7 @@ past member
     </p>
   </div>
   <div>
-    <p style="font-size: 1.5em; margin: 0;"><strong>Dr. Payman Sharifi Abdar</strong></p>
+    <p style="font-size: 1.5em; margin: 0;"><strong>Dr. Evan Miu</strong></p>
     <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Post-Doctoral Associate</strong></p>
     <p style="margin-bottom: 0.3em; font-size: 1em;"><em>PhD in Chemical Engineering, Ohio University, USA</em></p>
     <p style="margin-top: 0.3em; margin-bottom: 0.3em; font-size: 1em;"><em>MS in Environmental Engineering, Stuttgart University, Germany</em></p>
