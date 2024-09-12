@@ -2,6 +2,7 @@
 layout: post
 title: Sample blog post to learn markdown tips
 subtitle: There's lots to learn!
+date: 2024-09-11 14:00:00
 ---
 
 {: .box-success}
