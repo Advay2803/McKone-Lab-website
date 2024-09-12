@@ -87,15 +87,15 @@ permalink: /publications/
 
 21. **Flow Battery Electroanalysis 2: Influence of Surface Pretreatment on Fe(III/II) Redox Chemistry at Carbon Electrodes**  
     _Tejal Sawant, James R. McKone_  
-    [Journal of Physical Chemistry C](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b09473)
+    [Journal of Physical Chemistry C](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b09607)
 
 22. **Flow Battery Electroanalysis: Hydrodynamic Voltammetry of Aqueous Fe(III/II) Redox Couples at Polycrystalline Pt and Au**  
     _Tejal Sawant, James R. McKone_  
-    [ACS Applied Energy Materials](https://pubs.acs.org/doi/10.1021/acsenergylett.8b00631)
+    [ACS Applied Energy Materials](https://pubs.acs.org/doi/10.1021/acsaem.8b00859)
 
 23. **Elucidating the active sites for CO2 electroreduction on ligand-protected Au25 nanoclusters**  
     _N. Austin, S. Zhao, J. Jin, R. Mpourmpakis, James R. McKone_  
-    [Catalysis Science & Technology](https://pubs.rsc.org/en/content/articlelanding/2018/cy/c8cy01288k)
+    [Catalysis Science & Technology](https://pubs.rsc.org/en/content/articlelanding/2018/cy/c8cy01099d)
 
 24. **Solar Energy Conversion, Storage, and Release Using an Integrated Solar-Driven Redox Flow Battery**  
    _J.R. McKone, F.J. DiSalvo, H.D. Abruña_  
@@ -114,16 +114,16 @@ permalink: /publications/
    [Inorganic Chemistry](https://pubs.acs.org/doi/10.1021/acs.inorgchem.6b01097)
 
 28. **On the Benefits of a Symmetric Redox Flow Battery**  
-   _R.A. Potash, J.R. McKone, H.D. Abruña_  
+   _R.A. Potash, J.R. McKone, S. Conte, H.D. Abruña_  
    [Journal of the Electrochemical Society](https://iopscience.iop.org/article/10.1149/2.0971602jes)
 
 29. **Thin-Film Materials for the Protection of Semiconducting Photoelectrodes in Solar-Fuels Generators**  
    _S. Hu, N.S. Lewis, J.W. Ager, J. Yang, J.R. McKone, N.C. Strandwitz_  
-   [Journal of Physical Chemistry C](https://pubs.acs.org/doi/10.1021/acs.jpcc.5b05976) [100 citations to date]
+   [Journal of Physical Chemistry C](https://pubs.acs.org/doi/10.1021/acs.jpcc.5b05976) 
 
 30. **Functional Integration of Ni–Mo Electrocatalysts with Si Microwire Array Photocathodes to Simultaneously Achieve High Fill Factors and Light-Limited Photocurrent Densities for Solar-Driven Hydrogen Evolution**  
    _M.R. Shaner, J.R. McKone, H.B. Gray, N.S. Lewis_  
-   [Energy & Environmental Science](https://pubs.rsc.org/en/content/articlelanding/2015/ee/c5ee01076d)
+   [Energy & Environmental Science](https://pubs.rsc.org/en/content/articlehtml/2015/ee/c5ee01076d)
 
 31. **Unassisted HI Photoelectrolysis Using n-WSe2 Solar Absorbers**  
    _J.R. McKone, R.A. Potash, F.J. DiSalvo, H.D. Abruña_  
@@ -131,7 +131,7 @@ permalink: /publications/
 
 32. **Electrochemical Surface Science Twenty Years Later: Expeditions into the Electrocatalysis of Reactions at the Core of Artificial Photosynthesis**  
    _M.P. Soriaga, J.H. Baricuatro, K.D. Cummins, Y.-G. Kim, F.H. Saadi, G. Sun, C.C.L. McCrory, J.R. McKone, J.M. Velazquez, I.M. Ferrer, A.I. Carim, A. Javier, B. Chmielowiec, D.C. Lacy, J.C. Hemminger, N.S. Lewis, J.L. Stickney_  
-   [Surface Science](https://www.sciencedirect.com/science/article/pii/S0039602814003754)
+   [Surface Science](https://www.sciencedirect.com/science/article/pii/S0039602814002088)
 
 33. **Earth-Abundant Hydrogen Evolution Electrocatalysts**  
     _J.R. McKone, S.C. Marinescu, B.S. Bruschwig, J.R. Winkler, H.B. Gray_  
@@ -139,11 +139,11 @@ permalink: /publications/
 
 34. **The Solar Army: A Case Study in Outreach Based on Solar Photoelectrochemistry**  
     _J.R. McKone, S.A. Ardo, J.D. Blakemore, P.J. Bracher, J.L. Dempsey, T.V. Darnton, M.C. Hansen, W.H. Harman, M.J. Rose, M.G. Walter, S. Dasgupta, J.R. Winkler, H.B. Gray_  
-    [Reviews in Advanced Science and Engineering](https://www.ingentaconnect.com/content/ben/rase/2014/00000003/00000003/art00004)
+    [Reviews in Advanced Science and Engineering](http://www.aspbs.com/rase/contents_rase34.htm)
 
 35. **Comparison between the Measured and Modeled Hydrogen-Evolution Activity of Ni-or Pt-Coated Silicon Photocathodes**  
     _Z. Huang, J.R. McKone, C. Xiang, R.L. Grimm, E.L. Warren, J.M. Spurgeon, H.-J. Lewerenz, B.S. Brunschwig, N.S. Lewis_  
-    [International Journal of Hydrogen Energy](https://www.sciencedirect.com/science/article/pii/S0360319914001915)
+    [International Journal of Hydrogen Energy](https://www.sciencedirect.com/science/article/pii/S0360319913031546)
 
 36. **Will Solar-Driven Water-Splitting Devices See the Light of Day?**  
     _J.R. McKone, N. Lewis, H.B. Gray_  
@@ -155,7 +155,7 @@ permalink: /publications/
 
 38. **Hydrogen Evolution from Pt/Ru-Coated P-Type WSe2 Photocathodes**  
     _J.R. McKone, A.P. Pieterick, H.B. Gray, N.S. Lewis_  
-    [Journal of the American Chemical Society](https://pubs.acs.org/doi/10.1021/ja308581g)
+    [Journal of the American Chemical Society](https://pubs.acs.org/doi/full/10.1021/cs300691m)
 
 39. **Nanostructured Nickel Phosphide as an Electrocatalyst for the Hydrogen Evolution Reaction**  
     _E.J. Popczun, J.R. McKone, C.G. Read, A.J. Biacchi, A.M. Wiltrout, N.S. Lewis, R.E. Schaak_  
@@ -175,7 +175,7 @@ permalink: /publications/
 
 43. **Photoelectrochemical Water Splitting: Silicon Photocathodes for Hydrogen Evolution**  
     _E.L. Warren, S.W. Boettcher, J.R. McKone, N.S. Lewis_  
-    [SPIE Proceedings Volume](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7770/77701F)
+    [SPIE Proceedings Volume](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7770/77701F/Photoelectrochemical-water-splitting-silicon-photocathodes-for-hydrogen-evolution/10.1117/12.860994.full#_=_)
 
 44. **Solar Water Splitting Cells**  
     _M.G. Walter, E.L. Warren, J.R. McKone, S.W. Boettcher, Q. Mi, E.A. Santori, N.S. Lewis_  
