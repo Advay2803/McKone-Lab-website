@@ -4,12 +4,10 @@ title: "Research in McKone lab kicks off with 6 new students"
 subtitle: "Newer members on-board"
 date: 2017-01-15 10:00:00
 ---
-# My New Post
 
 McKone lab is pleased to announce new additions to the group:  
 2 new PhD students, Tejal Sawant and Rituja Patil  
-4 new undergraduate students, Dean Miller, Jeremy Hafner, Jonathan Hightower and Shawnee Sparrow.  
+4 new undergraduate students, Dean Miller, Jeremy Hafner, Jonathan Hightower, and Shawnee Sparrow.  
 Welcome everyone! 
 
-![Crepe](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/blob/master/assets/img/2017%20members.png){: .mx-auto.d-block :}
-
+![2017 Members](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/2017%20members.png){: .mx-auto.d-block :}
