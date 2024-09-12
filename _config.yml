@@ -23,7 +23,7 @@ author: Advay Shirwalkar
 
 navbar-links:  
   # Home: "aboutme"
-  People: 
+  Members: 
     - Incumbent: "people"
     - Former: "formerm"
   Publication: "publications"
