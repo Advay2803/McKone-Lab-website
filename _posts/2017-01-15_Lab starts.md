@@ -11,11 +11,6 @@ McKone lab is pleased to announce new additions to the group:
 4 new undergraduate students, Dean Miller, Jeremy Hafner, Jonathan Hightower and Shawnee Sparrow.  
 Welcome everyone! 
 
-## Section 1
 
-Here’s a section with some more details.
-
-- Point 1
-- Point 2
 
 
