@@ -7,6 +7,7 @@ date: 2017-05-05 10:00:00
 # My New Post
 
 Welcome to my new blog post! Here’s some introductory text.
+![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
 ## Section 1
 
