@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "McKone lab is all set!"
-subtitle: "From a simple bench top to a completely setup lab, 260 days is all it takes!!"
-date: 2017-05-05 10:00:00
+title: "esearch in McKone lab kicks off with 6 new students"
+subtitle: "Newer members onboard!"
+date: 2017-01-15 10:00:00
 ---
 
 McKone lab is pleased to announce new additions to the group:  
