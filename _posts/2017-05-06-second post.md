@@ -2,7 +2,7 @@
 layout: post
 title: "Research in McKone lab kicks off with 6 new students"
 subtitle: "Newer members onboard!"
-date: 2017-15-01 10:00:00
+date: 2017-01-15 10:00:00
 ---
 
 McKone lab is pleased to announce new additions to the group:  
