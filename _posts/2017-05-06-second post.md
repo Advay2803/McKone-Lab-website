@@ -5,4 +5,9 @@ subtitle: "From a simple bench top to a completely setup lab, 260 days is all it
 date: 2017-05-05 10:00:00
 ---
 
-![Crepe](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/labin260days.png){: .mx-auto.d-block :}
+McKone lab is pleased to announce new additions to the group:  
+2 new PhD students, Tejal Sawant and Rituja Patil  
+4 new undergraduate students, Dean Miller, Jeremy Hafner, Jonathan Hightower, and Shawnee Sparrow.  
+Welcome everyone! 
+
+![2017 Members](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/2017%20members.png){: .mx-auto.d-block :}
