@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "esearch in McKone lab kicks off with 6 new students"
+title: "Research in McKone lab kicks off with 6 new students"
 subtitle: "Newer members onboard!"
 date: 2017-01-15 10:00:00
 ---
