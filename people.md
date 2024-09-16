@@ -9,7 +9,7 @@ permalink: /people/
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: left;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 450px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 400px; height: auto;">
     <p>
       <a href="https://linkedin.com/in/pi_linkedin">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
@@ -17,10 +17,9 @@ permalink: /people/
       <a href="https://scholar.google.com/citations?user=pi_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a> |
-      <a href="mailto:example@example.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_Icon.svg" alt="Email" style="width: 50px; height: 50px;">
+      <a href="mailto:jmckone@pitt.edu">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
       </a>
-
     </p>
   </div>
   <div>
@@ -36,7 +35,7 @@ permalink: /people/
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 950px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 1250px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/payman-sharifi-64435b54/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
@@ -44,8 +43,8 @@ permalink: /people/
       <a href="https://scholar.google.com/citations?user=1mKkBC4AAAAJ&hl=en&oi=ao" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a> |
-      <a href="mailto:payman_email@university.edu">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" style="width: 30px; height: 30px;">
+      <a href="mailto:pas318@pitt.edu">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
@@ -71,8 +70,8 @@ permalink: /people/
       <a href="https://scholar.google.com/citations?user=becca_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a> |
-      <a href="mailto:becca_email@university.edu">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2432228%2Fe-mail_electronic_email_mail_icon&psig=AOvVaw0ssD03e0Sufff6moeoNR_z&ust=1726592294945000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiEktj3x4gDFQAAAAAdAAAAABAJ" alt="Email" style="width: 30px; height: 30px;">
+      <a href="mailto:Becca.Segel@pitt.edu">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
@@ -96,8 +95,84 @@ permalink: /people/
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a> |
-      <a href="mailto:example@domain.com">
-        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 50px; height: 50px;">
+      <a href="mailto:ROH57@pitt.edu">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
+      </a>
+    </p>
+  </div>
+  <div>
+    <p style="font-size: 1.5em; margin: 0;"><strong>Robert Hacku</strong></p>
+    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Graduate Student Researcher</strong></p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemistry, Clarion University, USA</em></p>
+    <p style="text-align: justify;">Rob works with organic electrochemical synthesis.</p>
+  </div>
+</div>
+
+<div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
+
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="margin-right: 25px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Sammie.jpg" alt="Samantha Roenigk" style="width: 250px; height: auto;">
+    <p>
+      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+      </a> |
+      <a href="https://scholar.google.com/citations?user=robert_scholar_id">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+      </a> |
+      <a href="mailto:SAR211@pitt.edu">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
+      </a>
+    </p>
+  </div>
+  <div>
+    <p style="font-size: 1.5em; margin: 0;"><strong>Samantha Roenigk</strong></p>
+    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Graduate Student Researcher</strong></p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemical Engineering, Pennsylvania State University, USA</em></p>
+    <p style="text-align: justify;">Sammie works with electrochemical CO2 valorization.</p>
+  </div>
+</div>
+<div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
+
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="margin-right: 25px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Advay Shirwalkar" style="width: 450px; height: auto;">
+    <p>
+      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+      </a> |
+      <a href="https://scholar.google.com/citations?user=robert_scholar_id">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+      </a> |
+      <a href="mailto:advay.shirwalkar@pitt.edu">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
+      </a>
+    </p>
+  </div>
+  <div>
+    <p style="font-size: 1.5em; margin: 0;"><strong>Advay Shirwalkar</strong></p>
+    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Graduate Student Researcher</strong></p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
+    <p style="text-align: justify;">Rob works with organic electrochemical synthesis.</p>
+  </div>
+</div>
+<div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
+
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="margin-right: 25px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 450px; height: auto;">
+    <p>
+      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+      </a> |
+      <a href="https://scholar.google.com/citations?user=robert_scholar_id">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+      </a> |
+      <a href="mailto:ROH57@pitt.edu">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
