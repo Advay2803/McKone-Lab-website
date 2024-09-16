@@ -9,13 +9,16 @@ permalink: /people/
 
 <div style="display: flex; align-items: center; justify-content: center; text-align: left;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 650px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 450px; height: auto;">
     <p>
       <a href="https://linkedin.com/in/pi_linkedin">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=pi_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+      </a> |
+      <a href="mailto:pi_email@university.edu">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
@@ -33,10 +36,12 @@ permalink: /people/
     <p>
       <a href="https://www.linkedin.com/in/payman-sharifi-64435b54/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
-      </a>
-      |
+      </a> |
       <a href="https://scholar.google.com/citations?user=1mKkBC4AAAAJ&hl=en&oi=ao" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+      </a> |
+      <a href="mailto:payman_email@university.edu">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
@@ -54,12 +59,14 @@ permalink: /people/
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Becca.jpg" alt="Rebecca Segel" style="width: 200px; height: auto;">
     <p>
-      <a href="https://www.linkedin.com/in/payman-sharifi-64435b54/" target="_blank">
+      <a href="https://www.linkedin.com/in/rebecca-segel/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
-      </a>
-      |
-      <a href="https://scholar.google.com/citations?user=1mKkBC4AAAAJ&hl=en&oi=ao" target="_blank">
+      </a> |
+      <a href="https://scholar.google.com/citations?user=becca_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+      </a> |
+      <a href="mailto:becca_email@university.edu">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
@@ -75,19 +82,21 @@ permalink: /people/
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 750px; height: auto;">
     <p>
-      <a href="https://www.linkedin.com/in/payman-sharifi-64435b54/" target="_blank">
+      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
-      </a>
-      |
-      <a href="https://scholar.google.com/citations?user=1mKkBC4AAAAJ&hl=en&oi=ao" target="_blank">
+      </a> |
+      <a href="https://scholar.google.com/citations?user=robert_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+      </a> |
+      <a href="mailto:rob_email@university.edu">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
   <div>
     <p style="font-size: 1.5em; margin: 0;"><strong>Robert Hacku</strong></p>
     <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Post-Doctoral Associate</strong></p>
-    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemistry, Cheigton University, USA</em></p>
-    <p style="text-align: justify;">Rob is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemistry, Creighton University, USA</em></p>
+    <p style="text-align: justify;">Rob works with organic electrochemical synthesis.</p>
   </div>
 </div>
