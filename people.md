@@ -30,6 +30,8 @@ permalink: /people/
 </div>
 
 ---
+<div style="border-left: 4px solid rgba(0, 53, 148, 0.5); height: 100px;"></div>
+
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 950px; height: auto;">
@@ -54,6 +56,7 @@ permalink: /people/
     <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
   </div>
 </div>
+<div style="border-left: 4px solid rgba(0, 53, 148, 0.5); height: 100px;"></div>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
@@ -66,7 +69,7 @@ permalink: /people/
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a> |
       <a href="mailto:becca_email@university.edu">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" style="width: 30px; height: 30px;">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2432228%2Fe-mail_electronic_email_mail_icon&psig=AOvVaw0ssD03e0Sufff6moeoNR_z&ust=1726592294945000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiEktj3x4gDFQAAAAAdAAAAABAJ" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
@@ -77,6 +80,7 @@ permalink: /people/
     <p style="text-align: justify;">Becca's work is battery work!</p>
   </div>
 </div>
+<div style="border-left: 4px solid rgba(0, 53, 148, 0.5); height: 100px;"></div>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
