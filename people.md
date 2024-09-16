@@ -24,7 +24,7 @@ permalink: /people/
   </div>
   <div>
     <p style="font-size: 1.5em;"><strong>Dr. James R. McKone</strong></p>
-    <p>Associate Professor, Department of Chemical Engineering and Chemistry</p>
+    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Associate Professor, Department of Chemical Engineering and Chemistry</strong></p>
     <p style="text-align: justify;">Dr. McKone’s research focuses on advancing fundamental understanding and technology in electrochemical energy systems.</p>
   </div>
 </div>
