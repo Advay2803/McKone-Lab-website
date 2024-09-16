@@ -2,7 +2,7 @@ past member
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Evan Miu" style="width: 950px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Evan.jpeg" alt="Evan Miu" style="width: 950px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/payman-sharifi-64435b54/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
@@ -86,3 +86,32 @@ past member
     <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
   </div>
 </div>
+
+## Undergraduates
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
+<!-- Profile 1 -->
+<div style="flex: 1; min-width: 300px; max-width: 30%; padding: 10px;">
+  <img src="path_to_image1.jpg" alt="Profile 1" style="width: 100%; height: auto; border-radius: 50%;">
+  <h3>Name of Student 1</h3>
+  <p><strong>Designation:</strong> Undergraduate Researcher</p>
+</div>
+
+<!-- Profile 2 -->
+<div style="flex: 1; min-width: 300px; max-width: 30%; padding: 10px;">
+  <img src="path_to_image2.jpg" alt="Profile 2" style="width: 100%; height: auto; border-radius: 50%;">
+  <h3>Name of Student 2</h3>
+  <p><strong>Designation:</strong> Undergraduate Researcher</p>
+</div>
+
+<!-- Profile 3 -->
+<div style="flex: 1; min-width: 300px; max-width: 30%; padding: 10px;">
+  <img src="path_to_image3.jpg" alt="Profile 3" style="width: 100%; height: auto; border-radius: 50%;">
+  <h3>Name of Student 3</h3>
+  <p><strong>Designation:</strong> Undergraduate Researcher</p>
+</div>
+
+</div>
+
+<!-- Additional rows of 3 profiles can be added below similarly -->
