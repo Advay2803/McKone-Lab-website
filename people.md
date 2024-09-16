@@ -30,7 +30,8 @@ permalink: /people/
 </div>
 
 ---
-<div style="border-left: 4px solid rgba(0, 53, 148, 0.5); height: 100px;"></div>
+<div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
+
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
@@ -56,7 +57,8 @@ permalink: /people/
     <p style="text-align: justify;">Payman is working on a DOE-funded project, "From Molecules to Materials: Understanding Hydrogen Activation and Transfer in Metal Oxides". He is specifically studying tungsten oxides as mediators for coupling water electrolysis with hydrogenation reactions. In addition, he is investigating the mechanism of hydrogen transport in metal oxides using optical microscopy.</p>
   </div>
 </div>
-<div style="border-left: 4px solid rgba(0, 53, 148, 0.5); height: 100px;"></div>
+<div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
+
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
@@ -80,7 +82,8 @@ permalink: /people/
     <p style="text-align: justify;">Becca's work is battery work!</p>
   </div>
 </div>
-<div style="border-left: 4px solid rgba(0, 53, 148, 0.5); height: 100px;"></div>
+<div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
+
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
