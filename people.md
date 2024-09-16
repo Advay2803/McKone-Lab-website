@@ -88,7 +88,7 @@ permalink: /people/
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 750px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 450px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
@@ -96,15 +96,15 @@ permalink: /people/
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a> |
-      <a href="mailto:rob_email@university.edu">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" style="width: 30px; height: 30px;">
+      <a href="mailto:example@domain.com">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 50px; height: 50px;">
       </a>
     </p>
   </div>
   <div>
     <p style="font-size: 1.5em; margin: 0;"><strong>Robert Hacku</strong></p>
-    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Post-Doctoral Associate</strong></p>
-    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemistry, Creighton University, USA</em></p>
+    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Graduate Student Researcher</strong></p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemistry, Clarion University, USA</em></p>
     <p style="text-align: justify;">Rob works with organic electrochemical synthesis.</p>
   </div>
 </div>
