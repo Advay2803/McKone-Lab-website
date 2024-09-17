@@ -155,7 +155,7 @@ permalink: /people/
     <p style="font-size: 1.5em; margin: 0;"><strong>Advay Shirwalkar</strong></p>
     <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Graduate Student Researcher</strong></p>
     <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
-    <p style="text-align: justify;">Rob works with organic electrochemical synthesis.</p>
+    <p style="text-align: justify;">Advay is currently working on developing and improving non-platinum group, Ni–Mo cathodes for the hydrogen evolution reaction (HER) under alkaline conditions, a long-standing focus of our research group for over a decade. His research aims to understand the impact of metal oxides on catalytic activity and the material's longevity. Additionally, he is designing a flow-type catalyst testing cell to evaluate catalysts under realistic electrolyzer conditions, with the goal of assessing their performance on an operational scale.</p>
   </div>
 </div>
 <div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
