@@ -11,7 +11,7 @@ permalink: /people/
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/James.jpg" alt="James R. McKone" style="width: 400px; height: auto;">
     <p>
-      <a href="https://linkedin.com/in/pi_linkedin">
+      <a href="https://www.linkedin.com/in/james-mckone/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=pi_scholar_id">
@@ -64,7 +64,7 @@ permalink: /people/
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Becca.jpg" alt="Rebecca Segel" style="width: 200px; height: auto;">
     <p>
-      <a href="https://www.linkedin.com/in/rebecca-segel/" target="_blank">
+      <a href="https://www.linkedin.com/in/segel/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=becca_scholar_id">
@@ -85,11 +85,11 @@ permalink: /people/
 <div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
 
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 25px; text-align: center;">
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <div style="margin-right: 10px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 200px; height: auto;">
     <p>
-      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
+      <a href="https://www.linkedin.com/in/roberthacku/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
@@ -108,6 +108,7 @@ permalink: /people/
   </div>
 </div>
 
+
 <div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
 
 
@@ -115,7 +116,7 @@ permalink: /people/
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Sammie.jpg" alt="Samantha Roenigk" style="width: 200px; height: auto;">
     <p>
-      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
+      <a href="https://www.linkedin.com/in/samantha-roenigk-a52287a3/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
@@ -140,7 +141,7 @@ permalink: /people/
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Advay.jpg" alt="Advay Shirwalkar" style="width: 500px; height: auto;">
     <p>
-      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
+      <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
@@ -165,7 +166,7 @@ permalink: /people/
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Santi.jpg" alt="Santiago Ortiz" style="width: 200px; height: auto;">
     <p>
-      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
+      <a href="https://www.linkedin.com/in/santiago-ortiz-laverde-250933155/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
@@ -192,7 +193,7 @@ permalink: /people/
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Shreya.jpg" alt="Shreya Thakkar" style="width: 200px; height: auto;">
     <p>
-      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
+      <a href="https://www.linkedin.com/in/shreya-thakkar-889604187/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
