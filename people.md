@@ -86,7 +86,7 @@ permalink: /people/
 
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-  <div style="margin-right: 10px; text-align: center;">
+  <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 200px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/roberthacku/" target="_blank">
@@ -139,7 +139,7 @@ permalink: /people/
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Advay.jpg" alt="Advay Shirwalkar" style="width: 500px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Advay.jpg" alt="Advay Shirwalkar" style="width: 1500px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
