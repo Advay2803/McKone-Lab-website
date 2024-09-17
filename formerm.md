@@ -57,7 +57,7 @@
     <p style="margin-top: 0.2em; font-size: 0.9em;">Masters in Chemical Engineering</p>
   </div>
 
-  ###Undergraduate Researchers
+  ### Undergraduate Researchers
   <!-- Undergrad Profiles -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
