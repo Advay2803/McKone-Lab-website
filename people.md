@@ -216,22 +216,21 @@ permalink: /people/
 <div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
 
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="margin-right: 25px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/thumb.png" alt="Isabella Hughes" style="width: 200px; height: auto;">
     <p>
-      <a href="https://www.linkedin.com/in/shreya-thakkar-889604187/" target="_blank">
+      <a href="https://www.linkedin.com/in/roberthacku/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
-      <a href="mailto:SHT150@pitt.edu">
+      <a href="mailto:ROH57@pitt.edu">
         <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
   <div>
     <p style="font-size: 1.5em; margin: 0;"><strong>Isabella Hughes</strong></p>
-    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Undergraduate Student Researcher</strong></p>
-    <p style="text-align: justify;">Bella works on molecular tungsten oxide.</p>
+    <p style="text-align: justify;">Bella works with reverse flow batteries.</p>
   </div>
 </div>
 
