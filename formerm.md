@@ -56,97 +56,86 @@
     <h3>Quidi Meng</h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Masters in Chemical Engineering</p>
   </div>
+
+  ###Undergraduate Researchers
   <!-- Undergrad Profiles -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <!-- Profile 1 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Craig Thomas </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Georgia Tech</p>
   </div>
 
   <!-- Profile 2 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Emily Siegel </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
   
   <!-- Profile 3 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Gabrielle Davis </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Maryland</p>
   </div>
 
   <!-- Profile 4 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Jim Hughes </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
   <!-- Profile 5 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Jeremy Hafner </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
   <!-- Profile 6 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Jonathan Hightower </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
   <!-- Profile 7 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Julia McKay </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
   <!-- Profile 8 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Shawnee Sparrow </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
   <!-- Profile 9 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Carissa Yim </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
   <!-- Profile 10 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Thomas Henry </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
   <!-- Profile 11 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Dean Miller </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
   <!-- Profile 12 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Noah French </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
   <!-- Profile 13 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
     <h3> Mawuenam Dossa </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Wisconsin-Madison</p>
   </div>
 
