@@ -86,7 +86,7 @@ permalink: /people/
 
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 15px; text-align: center;">
+  <div style="margin-right: 0px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 200px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
@@ -163,7 +163,7 @@ permalink: /people/
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 450px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Santi.jpg" alt="Santiago Ortiz" style="width: 450px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
@@ -171,15 +171,43 @@ permalink: /people/
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
       </a> |
-      <a href="mailto:ROH57@pitt.edu">
+      <a href="mailto:SAO103@pitt.edu">
         <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
   <div>
-    <p style="font-size: 1.5em; margin: 0;"><strong>Robert Hacku</strong></p>
+    <p style="font-size: 1.5em; margin: 0;"><strong>Santiago Ortiz Laverde</strong></p>
+    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Pre-Doctoral Fellow Certificate PhD</strong></p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>MS in Process Design and Management, Universidad de La Sabana, Colambia</em></p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemical Engineering, Universidad de La Sabana, Colambia</em></p>
+    <p style="text-align: justify;">Santiago works on lean H2 stream chemcial looping using tungsten oxides.</p>
+  </div>
+</div>
+
+<div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
+
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="margin-right: 25px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Shreya.jpg" alt="Shreya Thakkar" style="width: 450px; height: auto;">
+    <p>
+      <a href="https://www.linkedin.com/in/robert-hacku/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+      </a> |
+      <a href="https://scholar.google.com/citations?user=robert_scholar_id">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
+      </a> |
+      <a href="mailto:SHT150@pitt.edu">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
+      </a>
+    </p>
+  </div>
+  <div>
+    <p style="font-size: 1.5em; margin: 0;"><strong>Shreya Thakkar</strong></p>
     <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Graduate Student Researcher</strong></p>
-    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemistry, Clarion University, USA</em></p>
-    <p style="text-align: justify;">Rob works with organic electrochemical synthesis.</p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>MS in Chemical Engineering, Univeristy of Massachusetts Amherst, USA</em></p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
+    <p style="text-align: justify;">Shreya works on molecular tungsten oxide.</p>
   </div>
 </div>
