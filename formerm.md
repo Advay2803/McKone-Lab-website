@@ -56,127 +56,98 @@
     <h3>Quidi Meng</h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Masters in Chemical Engineering</p>
   </div>
-  
-  <!-- Profile 8 -->
+  <!-- Undergrad Profiles -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
+  <!-- Profile 1 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Craig Thomas </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Georgia Institute of Technology</p>
+    <p style="margin-top: 0.2em; font-size: 0.9em;">Georgia Tech</p>
   </div>
 
-    <!-- Profile 9 -->
+  <!-- Profile 2 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Emily Siegel </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
   
-    <!-- Profile 10 -->
+  <!-- Profile 3 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Gabrielle Davis </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Maryland</p>
   </div>
 
-    <!-- Profile 11 -->
+  <!-- Profile 4 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Jim Hughes </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
-    <!-- Profile 12 -->
+  <!-- Profile 5 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Jeremy Hafner </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
-    <!-- Profile 13 -->
+  <!-- Profile 6 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Jonathan Hightower </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
-    <!-- Profile 14 -->
+  <!-- Profile 7 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Julia McKay </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
-    <!-- Profile 15 -->
+  <!-- Profile 8 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Shawnee Sparrow </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
-      <!-- Profile 16 -->
+  <!-- Profile 9 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
-    <h3> Julia McKay </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
-  </div>
-
-      <!-- Profile 17 -->
-  <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
-    <h3> Julia McKay </h3>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
-    <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
-  </div>
-
-      <!-- Profile 18 -->
-  <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Carissa Yim </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
-      <!-- Profile 19 -->
+  <!-- Profile 10 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Thomas Henry </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
-      <!-- Profile 20 -->
+  <!-- Profile 11 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Dean Miller </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
-      <!-- Profile 21 -->
+  <!-- Profile 12 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Noah French </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Pittsburgh</p>
   </div>
 
-      <!-- Profile 22 -->
+  <!-- Profile 13 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="path_to_image2.jpg" alt="Profile 4" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
     <h3> Mawuenam Dossa </h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">Undergraduate student</p>
     <p style="margin-top: 0.2em; font-size: 0.9em;">University of Wisconsin-Madison</p>
   </div>
-  
-  <!-- Additional profiles can be added similarly -->
-</div>
 
+</div>
