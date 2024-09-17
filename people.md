@@ -211,7 +211,7 @@ permalink: /people/
     <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
     <p style="text-align: justify;">Shreya works on molecular tungsten oxide.</p>
   </div>
-</div>
+
 
 <div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
 
@@ -255,4 +255,5 @@ permalink: /people/
     <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Undergraduate Student Researcher</strong></p>
     <p style="text-align: justify;">Jonathon works on molecular tungsten oxide.</p>
   </div>
+</div>
 </div>
