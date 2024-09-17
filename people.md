@@ -228,96 +228,29 @@ permalink: /people/
   </div>
   <div>
     <p style="font-size: 1.5em; margin: 0;"><strong>Isabella Hughes</strong></p>
+    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Undergraduate Student Researcher</strong></p>
     <p style="text-align: justify;">Bella works with reverse flow batteries.</p>
   </div>
 </div>
 
 <div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/thumb.png" alt="Johnathon Bender" style="width: 200px; height: auto;">
-    <p>
-      <a href="https://www.linkedin.com/in/jonathon-bender" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
-      </a> |
-      <a href="mailto:JOB123@pitt.edu">
-        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email Johnathon Bender" style="width: 30px; height: 30px;">
-      </a>
-    </p>
-  </div>
-  <div>
-    <p style="font-size: 1.5em; margin: 0;"><strong>Johnathon Bender</strong></p>
-    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Undergraduate Student Researcher</strong></p>
-    <p style="text-align: justify;">Jonathon works on molecular tungsten oxide.</p>
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Shreya.jpg" alt="Shreya Thakkar" style="width: 200px; height: auto;">
-    <p>
-      <a href="https://www.linkedin.com/in/shreya-thakkar-889604187/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
-      </a> |
-      <a href="https://scholar.google.com/citations?user=robert_scholar_id">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
-      </a> |
-      <a href="mailto:SHT150@pitt.edu">
-        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
-      </a>
-    </p>
-  </div>
-  <div>
-    <p style="font-size: 1.5em; margin: 0;"><strong>Shreya Thakkar</strong></p>
-    <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Graduate Student Researcher</strong></p>
-    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>MS in Chemical Engineering, Univeristy of Massachusetts Amherst, USA</em></p>
-    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemical Engineering, Institute of Chemical Technology, India</em></p>
-    <p style="text-align: justify;">Shreya works on molecular tungsten oxide.</p>
-  </div>
-
-
-<div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
-
-
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/thumb.png" alt="Isabella Hughes" style="width: 200px; height: auto;">
+    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/thumb.png" alt="Jonathon Bender<" style="width: 200px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/roberthacku/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
       </a> |
       <a href="mailto:ROH57@pitt.edu">
-        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
+        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email Isabella Hughes" style="width: 30px; height: 30px;">
       </a>
     </p>
   </div>
   <div>
-    <p style="font-size: 1.5em; margin: 0;"><strong>Isabella Hughes</strong></p>
-    <p style="text-align: justify;">Bella works with reverse flow batteries.</p>
-  </div>
-</div>
-
-<div style="border-top: 4px solid rgba(0, 53, 148, 0.5); width: 100%; margin: 20px 0;"></div>
-
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="margin-right: 25px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/thumb.png" alt="Johnathon Bender" style="width: 200px; height: auto;">
-    <p>
-      <a href="https://www.linkedin.com/in/shreya-thakkar-889604187/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
-      </a> |
-      <a href="mailto:SHT150@pitt.edu">
-        <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email" style="width: 30px; height: 30px;">
-      </a>
-    </p>
-  </div>
-  <div>
-    <p style="font-size: 1.5em; margin: 0;"><strong>Johnathon Bender</strong></p>
+    <p style="font-size: 1.5em; margin: 0;"><strong>Jonathon Bender</strong></p>
     <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Undergraduate Student Researcher</strong></p>
-    <p style="text-align: justify;">Jonathon works on molecular tungsten oxide.</p>
+    <p style="text-align: justify;">Jonathon works on developing water electrolyser cell.</p>
   </div>
 </div>
-</div>
+
