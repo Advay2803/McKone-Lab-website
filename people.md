@@ -25,6 +25,9 @@ permalink: /people/
   <div>
     <p style="font-size: 1.5em;"><strong>Dr. James R. McKone</strong></p>
     <p style="margin-top: 0.3em; font-size: 1.1em;"><strong>Associate Professor, Department of Chemical Engineering and Chemistry</strong></p>
+    <p style="margin-top: 0.3em; margin-bottom: 0.3em; font-size: 1.1em;"><strong>Graduate Director, Department of Chemical Engineering </strong></p>
+    <p style="margin-bottom: 0.3em; font-size: 1em;"><em>PhD in Chemistry, California Institute of Technology, USA</em></p>
+    <p style="margin-top: 0.3em; margin-bottom: 0.3em; font-size: 1em;"><em>BS in Chemistry, St. Olaf College, USA</em></p>
     <p style="text-align: justify;">Dr. McKone’s research focuses on advancing fundamental understanding and technology in electrochemical energy systems.</p>
   </div>
 </div>
