@@ -17,7 +17,7 @@
 
   <!-- Profile 3 -->
   <div style="flex: 1; min-width: 300px; max-width: 45%; padding: 10px; text-align: center;">
-    <img src="[path_to_image3.jpg](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rituja.jpg)" alt="Profile 3" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
+    <img src="[path_to_image3.jpg](https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rituja.jpeg)" alt="Profile 3" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
     <h3>Dr. Rituja Patil</h3>
     <p style="margin-top: 0.2em; font-size: 0.9em;">PhD in Chemical Engineering</p>
   </div>
