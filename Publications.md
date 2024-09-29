@@ -7,31 +7,31 @@ permalink: /publications/
 
 44. **Unsupported Pt Nanoparticles: Synthesis, Deactivation, and Hydrogen Electrocatalysis in Unpurified Electrolytes**  
    _Rituja B. Patil, Samantha L. Roenigk, Advay N. Shirwalkar, Qiudi Meng, James R. McKone_  
-   [Journal of The Electrochemical Society](https://iopscience.iop.org/article/10.1149/1945-7111/ad330e)
+   [Journal of The Electrochemical Society, 171 (3), 036509](https://iopscience.iop.org/article/10.1149/1945-7111/ad330e)
 
 43. **Selective Hydrogenation of Azobenzene to Hydrazobenzene via Proton-Coupled Electron Transfer from a Polyoxotungstate Cluster**  
    _Zhou Lu, Shannon E. Cooney, James R. McKone, Ellen M. Matson_  
-   [Journal of American Chemical Society Au](https://pubs.acs.org/doi/10.1021/jacsau.4c00127)
+   [Journal of American Chemical Society Au, 4 (4), 1310-1314](https://pubs.acs.org/doi/10.1021/jacsau.4c00127)
 
 42. **Improved solubility of titanium-doped polyoxovanadate charge carriers for symmetric non-aqueous redox flow batteries**  
    _Mamta Dagar, DMM Mevan Dissanyake, Daniel N. Kesler, Molly Corr, Joshua D. McPherson, William W. Brennessel, James R. McKone, Ellen M. Matson_  
-   [Dalton Transactions](https://pubs.rsc.org/en/content/articlelanding/2024/dt/d3dt03642a)
+   [Dalton Transaction, 53 (1), 93-104](https://pubs.rsc.org/en/content/articlelanding/2024/dt/d3dt03642a)
 
 41. **Global and local connectivities describe hydrogen intercalation in metal oxides**  
    _Evan V. Miu, James R. McKone, Giannis Mpourmpakis_  
-   [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.108001)
+   [Physical Review Letters, 131 (10), 108001](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.108001)
 
 40. **Investigations of Nanoparticle Suspensions of Prussian Blue and Its Copper Analogue: Amine Functionalization and Electrochemical Studies**  
    _Heshali K. Welgama, Matthew R. Crawley, James R. McKone, Timothy R. Cook_  
-   [Inorganic Chemistry](https://pubs.acs.org/doi/10.1021/acs.inorgchem.2c03545)
+   [Inorganic Chemistry, 62 (4), 1455-1465](https://pubs.acs.org/doi/10.1021/acs.inorgchem.2c03545)
 
 39. **Solvent mixtures for improved electron transfer kinetics of titanium-doped polyoxovanadate-alkoxide clusters**  
    _Mamta Dagar, Molly Corr, Timothy R. Cook, James R. McKone, Ellen M. Matson_  
-   [Journal of Materials Chemistry A](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01179h)
+   [Journal of Materials Chemistry A, 11 (25), 13729-13741](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d3ta01179h)
 
 38. **Reversible alkaline hydrogen evolution and oxidation reactions using Ni–Mo catalysts supported on carbon**  
    _Rituja B. Patil, Manjodh Kaur, Stephen D. House, Lance Kavalsky, Keda Hu, Shirley Zhong, Dilip Krishnamurthy et al._  
-   [Energy Advances](https://pubs.rsc.org/en/content/articlelanding/2023/ya/d3ya00140g)
+   [Energy Advances, 2 (9), 1500-1511](https://pubs.rsc.org/en/content/articlelanding/2023/ya/d3ya00140g)
 
 37. **Deeper learning in electrocatalysis: realizing opportunities and addressing challenges**  
    _John A. Keith, James R. McKone, Joshua D. Snyder, Maureen H. Tang_  
