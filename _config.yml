@@ -24,7 +24,7 @@ author: Advay Shirwalkar
 navbar-links:  
   # Home: "aboutme"
   Members: 
-    - Incumbent: "people"
+    - Current: "people"
     - Former: "formerm"
   Publication: "publications"
   News: "news"
