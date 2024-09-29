@@ -30,7 +30,7 @@ navbar-links:
   News: "news"
   Resources:
     - Handbook: "https://mckonelab.github.io/handbook/"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Contact: "contact"
 
 ################
 # --- Logo --- #
