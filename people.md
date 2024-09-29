@@ -38,7 +38,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Payman.jpeg" alt="Payman Sharifi Abdar" style="width: 1250px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/payman-sharifi-64435b54/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: auto; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=1mKkBC4AAAAJ&hl=en&oi=ao" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
@@ -65,7 +65,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Becca.jpg" alt="Rebecca Segel" style="width: 220px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/segel/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: auto; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=becca_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
@@ -90,7 +90,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Rob.jpg" alt="Robert Hacku" style="width: 200px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/roberthacku/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: auto; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
@@ -117,7 +117,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Sammie.jpg" alt="Samantha Roenigk" style="width: 200px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/samantha-roenigk-a52287a3/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: auto; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
@@ -142,7 +142,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Advay.jpg" alt="Advay Shirwalkar" style="width: 1600px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/advay-shirwalkar-124b9218a/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: auto; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?hl=en&user=iDzwZDQAAAAJ">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
@@ -167,7 +167,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Santi.jpg" alt="Santiago Ortiz" style="width: 220px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/santiago-ortiz-laverde-250933155/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: auto; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
@@ -193,7 +193,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/Shreya.jpg" alt="Shreya Thakkar" style="width: 220px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/shreya-thakkar-889604187/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: auto; height: 50px;">
       </a> |
       <a href="https://scholar.google.com/citations?user=robert_scholar_id">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="width: 20px; height: 20px;">
@@ -219,7 +219,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/thumb.png" alt="Isabella Hughes" style="width: 200px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/roberthacku/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: auto; height: 50px;">
       </a> |
       <a href="mailto:ROH57@pitt.edu">
         <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email Isabella Hughes" style="width: 30px; height: 30px;">
@@ -240,7 +240,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/thumb.png" alt="Jonathon Bender<" style="width: 200px; height: auto;">
     <p>
       <a href="https://www.linkedin.com/in/roberthacku/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 50px; height: 50px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: auto; height: 50px;">
       </a> |
       <a href="mailto:ROH57@pitt.edu">
         <img src="https://raw.githubusercontent.com/Advay2803/advay2803.github.io/master/assets/img/mail.png" alt="Email Isabella Hughes" style="width: 30px; height: 30px;">
